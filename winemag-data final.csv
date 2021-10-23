@@ -1,0 +1,5002 @@
+,country,points,price,province
+0,Italy,87,,Sicily & Sardinia
+1,Portugal,87,15,Douro
+2,US,87,14,Oregon
+3,US,87,13,Michigan
+4,US,87,65,Oregon
+5,Spain,87,15,Northern Spain
+6,Italy,87,16,Sicily & Sardinia
+7,France,87,24,Alsace
+8,Germany,87,12,Rheinhessen
+9,France,87,27,Alsace
+10,US,87,19,California
+11,France,87,30,Alsace
+12,US,87,34,California
+13,Italy,87,,Sicily & Sardinia
+14,US,87,12,California
+15,Germany,87,24,Mosel
+16,Argentina,87,30,Other
+17,Argentina,87,13,Mendoza Province
+18,Spain,87,28,Northern Spain
+19,US,87,32,Virginia
+20,US,87,23,Virginia
+21,US,87,20,Oregon
+22,Italy,87,19,Sicily & Sardinia
+23,US,87,22,California
+24,Italy,87,35,Sicily & Sardinia
+25,US,87,69,California
+26,Italy,87,13,Sicily & Sardinia
+27,Italy,87,10,Sicily & Sardinia
+28,Italy,87,17,Sicily & Sardinia
+29,US,86,16,California
+30,France,86,,Beaujolais
+31,Italy,86,,Sicily & Sardinia
+32,Italy,86,,Sicily & Sardinia
+33,US,86,50,California
+34,US,86,20,California
+35,US,86,50,Oregon
+36,Chile,86,15,Colchagua Valley
+37,Italy,86,21,Sicily & Sardinia
+38,Italy,86,11,Southern Italy
+39,Italy,86,12,Sicily & Sardinia
+40,Italy,86,17,Sicily & Sardinia
+41,US,86,22,Oregon
+42,France,86,9,Beaujolais
+43,US,86,14,California
+44,Chile,86,9,Maule Valley
+45,US,86,40,Virginia
+46,Italy,86,13,Sicily & Sardinia
+47,US,86,13,California
+48,US,86,16,Virginia
+49,France,86,14,Beaujolais
+50,Italy,86,,Sicily & Sardinia
+51,Chile,85,22,Colchagua Valley
+52,Italy,85,14,Sicily & Sardinia
+53,France,85,15,Bordeaux
+54,Italy,85,,Sicily & Sardinia
+55,US,85,30,California
+56,US,85,14,California
+57,Italy,85,13,Sicily & Sardinia
+58,Chile,85,13,Maipo Valley
+59,US,86,55,Washington
+60,US,86,100,California
+61,Italy,86,17,Central Italy
+62,US,86,25,Washington
+63,France,86,58,Champagne
+64,US,86,26,California
+65,France,86,24,Burgundy
+66,France,86,15,Burgundy
+67,US,86,46,Washington
+68,US,86,12,California
+69,France,86,55,Champagne
+70,US,86,12,Washington
+71,US,86,40,California
+72,Italy,86,32,Southern Italy
+73,US,86,75,California
+74,US,86,55,California
+75,US,86,75,California
+76,Germany,86,9,Rheinhessen
+77,Australia,86,18,South Australia
+78,US,86,25,Oregon
+79,Portugal,86,,Tejo
+80,Chile,86,12,Rapel Valley
+81,Spain,86,16,Galicia
+82,France,86,11,France Other
+83,Australia,86,20,South Australia
+84,US,86,24,California
+85,Germany,86,10,Rheinhessen
+86,US,86,20,Washington
+87,US,86,55,California
+88,Italy,86,29,Tuscany
+89,Italy,88,19,Tuscany
+90,US,88,23,California
+91,US,88,18,California
+92,US,88,55,California
+93,Austria,88,12,Burgenland
+94,US,88,22,Washington
+95,France,88,20,Beaujolais
+96,France,88,18,Beaujolais
+97,US,88,20,New York
+98,Italy,88,30,Tuscany
+99,US,88,75,California
+100,US,88,18,New York
+101,US,87,20,New York
+102,US,87,20,New York
+103,Chile,87,18,Leyda Valley
+104,Italy,87,16,Tuscany
+105,Italy,87,14,Tuscany
+106,Italy,87,30,Tuscany
+107,Italy,87,18,Tuscany
+108,US,87,26,California
+109,Italy,87,30,Tuscany
+110,France,87,23,Beaujolais
+111,US,87,85,California
+112,Italy,87,15,Tuscany
+113,Italy,87,19,Tuscany
+114,US,87,18,California
+115,US,87,18,California
+116,US,87,25,California
+117,US,87,44,California
+118,Italy,87,80,Tuscany
+119,France,92,80,Alsace
+120,Italy,92,70,Piedmont
+121,US,92,36,California
+122,US,92,39,California
+123,Australia,92,40,South Australia
+124,US,92,45,California
+125,South Africa,91,45,Stellenbosch
+126,France,91,48,Alsace
+127,France,91,13,Alsace
+128,France,91,17,Alsace
+129,South Africa,91,25,Stellenbosch
+130,Italy,91,70,Piedmont
+131,France,91,20,Alsace
+132,South Africa,91,30,Simonsberg-Stellenbosch
+133,Italy,91,68,Piedmont
+134,US,91,78,California
+135,Italy,91,60,Piedmont
+136,France,91,50,Bordeaux
+137,South Africa,90,,Walker Bay
+138,France,90,10,Alsace
+139,France,90,112,Alsace
+140,Italy,90,26,Piedmont
+141,Italy,90,45,Piedmont
+142,US,90,17,California
+143,France,90,84,Alsace
+144,US,91,85,California
+145,US,91,64,California
+146,US,91,68,California
+147,US,91,68,California
+148,Germany,91,16,Rheinhessen
+149,US,91,35,California
+150,US,91,25,California
+151,Portugal,91,30,Alentejano
+152,US,91,55,California
+153,US,91,46,California
+154,Spain,91,50,Central Spain
+155,US,91,36,California
+156,Germany,91,14,Mosel
+157,Portugal,91,26,Alentejano
+158,Italy,91,38,Tuscany
+159,Italy,91,,Tuscany
+160,France,91,35,Southwest France
+161,US,91,35,California
+162,US,91,28,California
+163,France,91,,Beaujolais
+164,Chile,91,29,Aconcagua Valley
+165,Chile,91,32,Maipo Valley
+166,France,91,25,Southwest France
+167,US,91,28,California
+168,US,91,95,California
+169,US,91,44,California
+170,Germany,91,30,Mosel
+171,Germany,91,22,Mosel
+172,Chile,91,20,Loncomilla Valley
+173,US,91,38,Oregon
+174,New Zealand,88,19,Marlborough
+175,Italy,88,25,Northeastern Italy
+176,Chile,88,50,Maipo Valley
+177,Italy,88,22,Tuscany
+178,US,88,25,California
+179,France,88,27,Burgundy
+180,US,88,23,California
+181,US,88,36,California
+182,Italy,88,,Tuscany
+183,Argentina,88,12,Other
+184,US,88,35,California
+185,Chile,88,15,Colchagua Valley
+186,US,88,40,California
+187,Italy,88,48,Sicily & Sardinia
+188,Chile,88,11,Colchagua Valley
+189,Chile,87,11,Casablanca Valley
+190,Italy,87,26,Southern Italy
+191,Australia,87,30,South Australia
+192,Italy,87,20,Veneto
+193,France,87,35,Burgundy
+194,Italy,87,,Tuscany
+195,Italy,87,35,Tuscany
+196,Italy,87,18,Tuscany
+197,South Africa,90,23,Western Cape
+198,US,90,60,California
+199,US,90,28,California
+200,Italy,90,,Tuscany
+201,Italy,90,62,Northeastern Italy
+202,Israel,90,50,Judean Hills
+203,Portugal,90,28,Alentejo
+204,US,90,30,California
+205,US,90,25,California
+206,US,90,25,California
+207,US,90,32,California
+208,South Africa,90,40,Coastal Region
+209,France,90,16,Rhône Valley
+210,South Africa,90,20,Western Cape
+211,France,90,32,Rhône Valley
+212,Spain,90,40,Northern Spain
+213,US,90,48,California
+214,US,90,36,California
+215,Israel,90,80,Galilee
+216,Italy,90,57,Tuscany
+217,Portugal,90,20,Beira Atlantico
+218,US,90,20,California
+219,Hungary,90,36,Tokaj
+220,US,90,40,California
+221,Italy,90,40,Northeastern Italy
+222,Italy,90,,Tuscany
+223,Italy,90,,Northeastern Italy
+224,Argentina,90,22,Mendoza Province
+225,South Africa,90,25,Stellenbosch
+226,South Africa,90,20,Stellenbosch
+227,US,85,15,New York
+228,US,85,14,New York
+229,US,85,18,California
+230,US,85,16,New York
+231,Argentina,85,10,Mendoza Province
+232,Australia,85,12,South Australia
+233,US,85,28,Oregon
+234,Italy,85,10,Central Italy
+235,US,85,49,California
+236,US,85,85,California
+237,Italy,85,18,Central Italy
+238,Australia,85,29,South Australia
+239,US,85,36,California
+240,France,85,9,Southwest France
+241,US,85,34,California
+242,US,85,15,California
+243,US,85,30,New York
+244,Spain,85,13,Northern Spain
+245,Argentina,85,12,Other
+246,Australia,85,15,South Australia
+247,US,85,25,California
+248,US,85,45,Oregon
+249,US,85,18,Virginia
+250,US,85,49,California
+251,US,85,22,Oregon
+252,US,85,35,California
+253,Argentina,85,15,Mendoza Province
+254,US,89,45,California
+255,US,89,55,California
+256,South Africa,89,20,Coastal Region
+257,South Africa,89,18,Coastal Region
+258,South Africa,89,35,Stellenbosch
+259,France,89,13,Southwest France
+260,US,89,40,Oregon
+261,Argentina,89,37,Mendoza Province
+262,US,89,39,California
+263,US,89,60,California
+264,South Africa,89,19,Stellenbosch
+265,South Africa,89,40,Stellenbosch
+266,Argentina,89,14,Mendoza Province
+267,Italy,89,40,Central Italy
+268,Italy,89,36,Veneto
+269,Austria,89,17,Leithaberg
+270,Italy,89,25,Northeastern Italy
+271,Greece,89,15,Santorini
+272,Italy,89,26,Northeastern Italy
+273,Argentina,89,19,Mendoza Province
+274,Italy,89,13,Piedmont
+275,Argentina,89,30,Mendoza Province
+276,US,89,20,California
+277,US,89,30,California
+278,US,89,50,Oregon
+279,Italy,89,52,Northeastern Italy
+280,Austria,92,24,Kremstal
+281,US,92,34,California
+282,Italy,92,41,Tuscany
+283,US,92,52,Oregon
+284,Argentina,92,215,Mendoza Province
+285,Austria,92,,Kremstal
+286,US,92,60,California
+287,Spain,92,40,Catalonia
+288,Austria,92,,Kremstal
+289,US,92,125,California
+290,France,92,,Bordeaux
+291,Italy,92,,Central Italy
+292,France,92,45,France Other
+293,Australia,92,70,South Australia
+294,Argentina,92,30,Mendoza Province
+295,US,87,35,California
+296,Chile,87,20,Maipo Valley
+297,US,87,15,California
+298,Chile,87,19,Aconcagua Valley
+299,Italy,87,,Piedmont
+300,US,87,28,California
+301,US,87,14,Washington
+302,Italy,87,,Piedmont
+303,Italy,87,56,Piedmont
+304,Italy,87,,Piedmont
+305,US,87,24,California
+306,Romania,87,7,Recas
+307,France,87,30,Burgundy
+308,Greece,87,18,Santorini
+309,Italy,87,20,Piedmont
+310,Italy,87,18,Piedmont
+311,New Zealand,87,18,Hawke's Bay
+312,US,87,40,California
+313,Italy,87,,Piedmont
+314,US,87,28,California
+315,Italy,86,15,Veneto
+316,France,86,,Bordeaux
+317,France,86,,Bordeaux
+318,Chile,86,18,Curicó Valley
+319,Italy,86,20,Veneto
+320,Italy,86,22,Veneto
+321,Italy,86,16,Veneto
+322,Italy,86,18,Veneto
+323,Chile,86,35,Colchagua Valley
+324,Italy,86,12,Veneto
+325,US,86,11,New York
+326,Italy,86,15,Veneto
+327,Chile,86,18,Limarí Valley
+328,US,86,16,California
+329,US,86,34,California
+330,US,86,40,California
+331,Chile,86,15,Casablanca Valley
+332,Italy,86,19,Veneto
+333,Italy,86,18,Veneto
+334,France,86,42,Champagne
+335,Italy,86,15,Veneto
+336,Chile,83,35,Colchagua Costa
+337,France,83,16,Languedoc-Roussillon
+338,France,82,11,Provence
+339,Spain,82,13,Catalonia
+340,France,82,18,Alsace
+341,US,82,48,California
+342,Spain,82,11,Catalonia
+343,Chile,81,20,Rapel Valley
+344,Chile,80,19,Leyda Valley
+345,Australia,100,350,Victoria
+346,Australia,98,350,Victoria
+347,Germany,97,775,Rheingau
+348,Australia,97,100,Victoria
+349,Australia,97,225,South Australia
+350,Italy,97,150,Piedmont
+351,Hungary,96,320,Tokaji
+352,US,96,68,California
+353,France,96,630,Burgundy
+354,Germany,96,365,Rheingau
+355,US,96,68,California
+356,Australia,95,85,Victoria
+357,France,95,350,Burgundy
+358,Germany,95,66,Rheingau
+359,France,95,110,Burgundy
+360,Australia,95,125,South Australia
+361,Italy,95,60,Piedmont
+362,US,95,200,California
+363,France,95,380,Burgundy
+364,US,95,48,Oregon
+365,Australia,95,60,South Australia
+366,Italy,88,21,Northeastern Italy
+367,Chile,88,10,Maipo Valley
+368,Italy,88,11,Veneto
+369,Italy,88,21,Northeastern Italy
+370,US,88,160,California
+371,Italy,88,23,Northeastern Italy
+372,Italy,88,10,Veneto
+373,Italy,88,15,Northeastern Italy
+374,US,88,19,California
+375,Italy,88,40,Tuscany
+376,Italy,88,18,Northeastern Italy
+377,Greece,88,,Naoussa
+378,Mexico,88,18,Valle de Guadalupe
+379,Italy,88,15,Northeastern Italy
+380,Chile,88,12,Rapel Valley
+381,Italy,88,11,Veneto
+382,Chile,88,15,Maipo Valley
+383,Italy,88,9,Veneto
+384,Italy,88,30,Northeastern Italy
+385,US,88,18,California
+386,US,88,34,California
+387,US,88,17,California
+388,US,88,25,California
+389,Italy,88,15,Northeastern Italy
+390,Chile,88,12,Maipo Valley
+391,Chile,88,14,Central Valley
+392,US,87,12,California
+393,Chile,87,11,Lontué Valley
+394,Chile,87,12,Maipo Valley
+395,Italy,87,,Northeastern Italy
+396,US,85,16,California
+397,Chile,85,15,Colchagua Valley
+398,Chile,85,13,Curicó Valley
+399,Italy,85,24,Veneto
+400,Italy,85,13,Italy Other
+401,Italy,85,19,Veneto
+402,Chile,85,11,Colchagua Valley
+403,US,85,15,California
+404,US,85,45,California
+405,Italy,85,19,Veneto
+406,France,85,30,Champagne
+407,Chile,85,14,Casablanca Valley
+408,Italy,85,15,Veneto
+409,US,85,20,New York
+410,US,85,20,New York
+411,US,85,12,California
+412,Italy,85,20,Veneto
+413,Italy,85,13,Veneto
+414,Italy,85,16,Veneto
+415,US,85,14,New York
+416,Italy,85,14,Veneto
+417,Italy,85,,Veneto
+418,Austria,85,,Burgenland
+419,France,89,20,Bordeaux
+420,France,89,,Bordeaux
+421,US,89,30,Washington
+422,US,89,20,Washington
+423,Austria,89,23,Weinviertel
+424,US,89,30,California
+425,US,89,18,New York
+426,Spain,89,18,Northern Spain
+427,US,89,35,New York
+428,Austria,89,17,Kremstal
+429,US,89,42,Washington
+430,US,89,30,California
+431,US,89,24,California
+432,US,89,16,Washington
+433,US,89,27,California
+434,Italy,89,89,Piedmont
+435,Austria,89,,Thermenregion
+436,Italy,89,15,Piedmont
+437,US,89,54,California
+438,Spain,89,15,Northern Spain
+439,Spain,89,42,Northern Spain
+440,US,89,38,Washington
+441,Austria,89,12,Niederösterreich
+442,US,89,35,New York
+443,US,88,32,California
+444,Austria,88,12,Wagram
+445,Italy,88,28,Sicily & Sardinia
+446,US,88,20,California
+447,France,88,14,Loire Valley
+448,France,88,19,Rhône Valley
+449,Italy,92,39,Lombardy
+450,France,92,,Champagne
+451,Italy,92,35,Tuscany
+452,France,92,,Burgundy
+453,France,92,69,Champagne
+454,Canada,92,30,Ontario
+455,US,92,40,California
+456,US,92,23,California
+457,US,92,45,California
+458,Italy,92,50,Lombardy
+459,France,92,100,Champagne
+460,US,92,50,Oregon
+461,US,92,29,Oregon
+462,France,92,66,Burgundy
+463,France,92,60,Champagne
+464,Germany,92,115,Rheinhessen
+465,Italy,92,69,Veneto
+466,France,92,,Champagne
+467,US,92,65,Oregon
+468,Germany,92,42,Mosel
+469,Germany,92,27,Mosel
+470,France,92,70,Champagne
+471,France,92,73,Burgundy
+472,France,92,72,Burgundy
+473,Portugal,92,34,Alentejano
+474,France,92,,Champagne
+475,US,92,130,California
+476,US,92,88,California
+477,France,92,65,Bordeaux
+478,France,92,,Champagne
+479,Italy,87,15,Sicily & Sardinia
+480,US,87,45,Washington
+481,Italy,87,18,Sicily & Sardinia
+482,US,87,60,California
+483,South Africa,87,12,Stellenbosch
+484,South Africa,87,12,Western Cape
+485,France,87,13,Rhône Valley
+486,US,87,13,California
+487,Italy,87,15,Northeastern Italy
+488,Italy,87,18,Northeastern Italy
+489,Italy,87,13,Northeastern Italy
+490,Spain,87,19,Catalonia
+491,Austria,87,18,Kremstal
+492,US,87,30,Washington
+493,US,87,35,Washington
+494,US,87,12,New York
+495,US,87,18,California
+496,Spain,87,25,Northern Spain
+497,US,87,30,California
+498,US,87,17,California
+499,France,87,20,Provence
+500,Spain,87,11,Northern Spain
+501,US,87,15,California
+502,Austria,87,18,Österreichischer Sekt
+503,US,87,19,California
+504,France,87,15,Rhône Valley
+505,Spain,87,16,Northern Spain
+506,Italy,87,12,Northeastern Italy
+507,US,87,28,Washington
+508,US,87,28,Washington
+509,US,91,65,California
+510,US,91,48,California
+511,France,91,70,Champagne
+512,France,91,59,Champagne
+513,US,91,90,California
+514,Chile,91,35,Colchagua Valley
+515,US,91,75,California
+516,US,91,55,California
+517,US,91,55,California
+518,France,91,60,Burgundy
+519,US,91,36,California
+520,US,91,35,California
+521,US,91,35,California
+522,US,91,55,Oregon
+523,US,91,65,Oregon
+524,US,91,35,Washington
+525,US,91,49,California
+526,US,91,55,Oregon
+527,Germany,91,30,Rheinhessen
+528,France,91,42,Champagne
+529,US,91,45,California
+530,Chile,91,24,Colchagua Valley
+531,US,91,50,Oregon
+532,US,91,50,Oregon
+533,US,91,50,Oregon
+534,US,91,38,California
+535,Germany,91,22,Mosel
+536,US,91,50,Washington
+537,US,91,110,California
+538,US,91,45,Oregon
+539,US,93,42,California
+540,US,93,60,California
+541,US,93,42,California
+542,Italy,93,30,Northeastern Italy
+543,US,93,75,California
+544,US,93,54,California
+545,US,93,85,California
+546,US,93,50,California
+547,US,93,150,California
+548,US,93,85,California
+549,Italy,93,90,Piedmont
+550,US,93,35,California
+551,US,93,46,California
+552,France,93,20,Provence
+553,Argentina,93,42,Mendoza Province
+554,France,93,40,Provence
+555,US,93,75,Washington
+556,Spain,93,88,Northern Spain
+557,US,93,40,California
+558,US,93,25,California
+559,US,93,48,California
+560,US,93,45,California
+561,US,93,50,California
+562,US,93,65,California
+563,US,93,48,California
+564,US,93,62,California
+565,US,93,100,California
+566,US,93,53,California
+567,Argentina,93,55,Mendoza Province
+568,US,93,70,California
+569,US,89,38,Washington
+570,US,89,50,Washington
+571,US,89,25,California
+572,Italy,89,15,Piedmont
+573,France,89,14,Bordeaux
+574,France,89,11,Rhône Valley
+575,France,89,14,Bordeaux
+576,France,89,37,Bordeaux
+577,US,89,17,New York
+578,France,89,15,Bordeaux
+579,US,89,13,California
+580,US,89,18,Washington
+581,US,89,26,Washington
+582,US,89,18,Washington
+583,US,89,32,California
+584,Austria,89,18,Kamptal
+585,US,89,25,Washington
+586,Austria,89,18,Steiermark
+587,Austria,89,20,Südsteiermark
+588,US,89,18,California
+589,Austria,89,,Burgenland
+590,US,89,17,California
+591,Austria,89,13,Niederösterreich
+592,US,89,41,Washington
+593,Austria,89,16,Niederösterreich
+594,France,89,20,Rhône Valley
+595,US,89,30,Washington
+596,Greece,89,13,Crete
+597,Austria,89,24,Kremstal
+598,US,89,36,California
+599,US,87,20,California
+600,Italy,87,19,Piedmont
+601,Mexico,87,15,Valle de Guadalupe
+602,US,87,69,California
+603,US,87,36,New York
+604,Spain,87,35,Northern Spain
+605,Argentina,87,30,Mendoza Province
+606,US,87,25,Oregon
+607,US,87,25,Oregon
+608,Portugal,87,15,Douro
+609,US,87,20,Oregon
+610,US,87,17,California
+611,US,87,54,California
+612,US,87,40,California
+613,Portugal,87,12,Vinho Verde
+614,Italy,87,19,Veneto
+615,Argentina,87,11,Mendoza Province
+616,US,87,45,California
+617,Italy,87,25,Veneto
+618,US,87,35,California
+619,Italy,87,16,Piedmont
+620,Italy,87,20,Veneto
+621,US,87,28,California
+622,US,87,25,Idaho
+623,US,87,28,Idaho
+624,US,87,20,Idaho
+625,Italy,87,15,Veneto
+626,Italy,87,23,Veneto
+627,Italy,87,19,Piedmont
+628,Australia,92,35,South Australia
+629,US,92,75,California
+630,US,92,48,Oregon
+631,France,92,54,Alsace
+632,France,92,34,Alsace
+633,Australia,92,60,Victoria
+634,US,92,48,California
+635,Spain,92,28,Northern Spain
+636,Australia,92,125,South Australia
+637,France,92,45,Alsace
+638,France,92,36,Alsace
+639,France,92,30,Alsace
+640,US,92,37,California
+641,US,92,25,California
+642,Portugal,92,30,Alentejano
+643,US,92,60,California
+644,US,92,40,California
+645,US,92,50,Oregon
+646,Portugal,92,23,Tejo
+647,Portugal,92,80,Douro
+648,Germany,92,34,Mosel
+649,US,92,75,California
+650,Italy,92,24,Northeastern Italy
+651,France,92,39,Alsace
+652,Australia,92,21,Western Australia
+653,US,92,35,California
+654,France,92,43,Alsace
+655,US,92,30,California
+656,US,92,70,Oregon
+657,South Africa,92,50,Coastal Region
+658,US,90,40,California
+659,US,90,45,Washington
+660,US,90,80,California
+661,US,90,15,California
+662,Italy,90,65,Piedmont
+663,US,90,65,California
+664,Italy,90,35,Piedmont
+665,Italy,90,25,Piedmont
+666,US,90,20,Washington
+667,Spain,90,15,Levante
+668,US,90,26,New York
+669,US,90,30,Washington
+670,US,90,13,Washington
+671,US,90,45,California
+672,US,90,26,New York
+673,US,90,44,California
+674,US,90,38,California
+675,US,90,28,California
+676,US,90,32,Washington
+677,Italy,90,50,Tuscany
+678,Italy,90,35,Tuscany
+679,US,90,35,Washington
+680,Spain,90,25,Northern Spain
+681,US,90,42,Washington
+682,Italy,90,45,Piedmont
+683,Italy,90,70,Tuscany
+684,US,90,30,Washington
+685,US,90,75,California
+686,Italy,90,53,Piedmont
+687,US,90,29,California
+688,US,91,90,Washington
+689,US,91,35,California
+690,Austria,91,35,Burgenland
+691,US,91,50,California
+692,Italy,91,35,Tuscany
+693,US,91,65,California
+694,South Africa,91,50,Stellenbosch
+695,Italy,91,43,Tuscany
+696,New Zealand,91,28,Marlborough
+697,Austria,91,,Wagram
+698,US,91,20,Washington
+699,South Africa,91,40,Simonsberg-Stellenbosch
+700,Argentina,91,30,Mendoza Province
+701,France,91,65,Provence
+702,France,91,17,Provence
+703,France,91,,Provence
+704,France,91,20,Provence
+705,New Zealand,91,28,Marlborough
+706,France,91,20,Provence
+707,France,91,20,Provence
+708,France,91,25,Provence
+709,US,91,38,California
+710,New Zealand,91,120,Martinborough
+711,US,91,23,California
+712,US,91,48,California
+713,US,91,32,California
+714,New Zealand,91,50,Central Otago
+715,Argentina,91,28,Mendoza Province
+716,New Zealand,91,30,Central Otago
+717,France,91,25,Provence
+718,Portugal,85,8,Lisboa
+719,France,85,15,Burgundy
+720,Portugal,85,22,Alentejano
+721,Argentina,85,14,Mendoza Province
+722,Argentina,85,25,Mendoza Province
+723,Portugal,85,8,Vinho Verde
+724,US,85,14,Texas
+725,Italy,85,80,Piedmont
+726,Portugal,85,9,Vinho Verde
+727,US,85,13,Oregon
+728,Argentina,85,17,Other
+729,Portugal,85,10,Alentejano
+730,US,85,16,California
+731,France,85,10,France Other
+732,France,85,22,Burgundy
+733,France,85,40,Burgundy
+734,Argentina,85,15,Mendoza Province
+735,Argentina,85,17,Other
+736,US,85,32,California
+737,Portugal,85,12,Península de Setúbal
+738,Argentina,85,17,Mendoza Province
+739,Italy,85,102,Piedmont
+740,US,85,,Texas
+741,France,85,10,Burgundy
+742,France,85,20,Burgundy
+743,US,85,33,California
+744,Italy,85,48,Piedmont
+745,Portugal,85,12,Alentejo
+746,Australia,85,9,Australia Other
+747,US,87,24,California
+748,US,87,75,New York
+749,France,87,12,Alsace
+750,US,87,45,California
+751,Chile,87,13,Central Valley
+752,France,87,,Alsace
+753,US,87,22,California
+754,Spain,87,10,Northern Spain
+755,US,87,18,California
+756,US,87,35,California
+757,US,87,36,California
+758,US,87,34,California
+759,US,87,70,California
+760,US,87,28,California
+761,Chile,87,19,Colchagua Valley
+762,Spain,87,14,Northern Spain
+763,Spain,87,10,Northern Spain
+764,US,87,45,California
+765,US,87,32,California
+766,Australia,87,18,Tasmania
+767,Spain,87,9,Northern Spain
+768,Australia,87,11,Australia Other
+769,Italy,87,30,Southern Italy
+770,France,92,62,Champagne
+771,US,92,40,California
+772,France,92,66,Champagne
+773,Portugal,92,32,Alentejo
+774,US,92,70,Oregon
+775,US,92,48,Oregon
+776,France,92,72,Champagne
+777,Italy,92,18,Northeastern Italy
+778,US,92,105,Oregon
+779,France,92,101,Champagne
+780,Italy,92,50,Tuscany
+781,Italy,92,85,Northeastern Italy
+782,US,92,35,California
+783,US,92,38,California
+784,Portugal,90,32,Douro
+785,Argentina,90,25,Other
+786,Portugal,90,12,Douro
+787,US,90,125,California
+788,Argentina,90,46,Mendoza Province
+789,Germany,90,29,Mosel
+790,US,90,17,Washington
+791,US,90,85,Oregon
+792,France,90,30,Bordeaux
+793,US,90,34,Washington
+794,US,90,22,California
+795,France,90,35,Bordeaux
+796,France,90,45,Bordeaux
+797,France,90,20,Bordeaux
+798,France,90,17,Bordeaux
+799,France,90,45,Bordeaux
+800,US,90,20,California
+801,US,90,50,California
+802,France,90,22,Beaujolais
+803,US,90,39,Washington
+804,US,90,35,Washington
+805,US,90,15,Oregon
+806,US,90,27,California
+807,Australia,90,66,Victoria
+808,Italy,90,32,Central Italy
+809,Spain,90,20,Central Spain
+810,US,90,125,California
+811,Germany,90,16,Franken
+812,US,90,42,California
+813,Australia,90,22,South Australia
+814,Italy,86,,Tuscany
+815,US,86,18,Washington
+816,US,86,22,New York
+817,Chile,86,12,Colchagua Valley
+818,France,86,15,Beaujolais
+819,France,86,9,Southwest France
+820,Spain,86,12,Northern Spain
+821,Spain,86,15,Catalonia
+822,Italy,86,20,Tuscany
+823,US,86,28,California
+824,US,86,10,California
+825,Italy,86,70,Tuscany
+826,Italy,86,28,Tuscany
+827,Chile,86,11,Curicó Valley
+828,France,86,30,Southwest France
+829,US,86,26,Washington
+830,France,86,15,Beaujolais
+831,France,86,23,Beaujolais
+832,France,86,,Beaujolais
+833,Italy,86,30,Piedmont
+834,Chile,86,10,Loncomilla Valley
+835,France,86,12,Beaujolais
+836,Spain,86,13,Catalonia
+837,Spain,86,15,Catalonia
+838,US,86,36,Washington
+839,US,86,20,New York
+840,France,86,,Beaujolais
+841,US,86,10,California
+842,France,86,16,Beaujolais
+843,US,86,25,Washington
+844,Italy,90,24,Sicily & Sardinia
+845,Italy,90,,Sicily & Sardinia
+846,France,90,24,Alsace
+847,France,90,33,Alsace
+848,France,90,,Burgundy
+849,France,90,70,Burgundy
+850,France,90,117,Burgundy
+851,France,90,,Burgundy
+852,France,90,16,Alsace
+853,Germany,90,30,Mosel
+854,US,90,20,California
+855,US,90,35,California
+856,Italy,90,25,Southern Italy
+857,US,90,28,California
+858,US,90,15,Oregon
+859,US,90,150,California
+860,US,90,45,California
+861,Italy,90,30,Sicily & Sardinia
+862,Italy,90,19,Sicily & Sardinia
+863,US,90,45,California
+864,Germany,90,40,Ahr
+865,Italy,90,,Sicily & Sardinia
+866,Australia,90,25,South Australia
+867,US,90,40,Oregon
+868,Chile,90,15,Colchagua Valley
+869,US,90,42,California
+870,US,90,29,California
+871,US,90,42,California
+872,US,90,18,Oregon
+873,Hungary,90,16,Tokaji
+874,Portugal,90,40,Douro
+875,Portugal,90,,Douro
+876,Spain,90,50,Catalonia
+877,Italy,90,,Tuscany
+878,France,90,35,Bordeaux
+879,France,90,45,Bordeaux
+880,US,90,20,California
+881,Spain,90,44,Catalonia
+882,US,90,22,California
+883,Italy,90,,Tuscany
+884,US,90,28,California
+885,US,90,27,California
+886,France,90,25,Languedoc-Roussillon
+887,Portugal,90,60,Douro
+888,US,90,72,Washington
+889,US,90,44,California
+890,US,90,28,California
+891,US,90,29,California
+892,US,90,58,Washington
+893,Australia,90,15,Australia Other
+894,Italy,90,29,Tuscany
+895,Italy,90,45,Tuscany
+896,US,90,70,California
+897,US,90,39,Washington
+898,Italy,90,,Tuscany
+899,Italy,90,28,Tuscany
+900,Spain,90,48,Catalonia
+901,Portugal,90,50,Douro
+902,US,87,22,Texas
+903,Germany,87,10,Nahe
+904,Italy,87,50,Piedmont
+905,US,87,30,Texas
+906,US,87,18,Texas
+907,Portugal,87,30,Vinho Verde
+908,Italy,87,39,Piedmont
+909,Italy,87,35,Piedmont
+910,Argentina,87,30,Mendoza Province
+911,France,87,23,France Other
+912,US,87,18,Oregon
+913,,87,30,
+914,Argentina,87,20,Other
+915,US,87,25,Oregon
+916,US,87,20,Oregon
+917,Italy,87,50,Piedmont
+918,Italy,87,50,Piedmont
+919,Argentina,87,15,Mendoza Province
+920,Australia,87,,Australia Other
+921,Portugal,87,9,Tejo
+922,Argentina,87,12,Mendoza Province
+923,Portugal,87,14,Tejo
+924,Australia,87,18,South Australia
+925,US,87,20,California
+926,Argentina,87,175,Mendoza Province
+927,Portugal,87,12,Vinho Verde
+928,Italy,87,60,Piedmont
+929,US,87,20,California
+930,Argentina,87,15,Mendoza Province
+931,Italy,87,35,Piedmont
+932,France,87,14,Bordeaux
+933,France,87,16,Bordeaux
+934,France,87,15,Bordeaux
+935,France,87,14,Bordeaux
+936,US,87,40,Oregon
+937,US,87,29,Oregon
+938,Spain,87,15,Northern Spain
+939,US,87,55,California
+940,France,87,38,Champagne
+941,Spain,87,15,Levante
+942,US,87,34,California
+943,Spain,87,18,Northern Spain
+944,US,87,27,Oregon
+945,US,87,17,California
+946,US,87,65,California
+947,Portugal,87,13,Douro
+948,Portugal,87,15,Alentejano
+949,Italy,87,23,Piedmont
+950,US,87,40,California
+951,US,87,32,California
+952,Spain,87,16,Catalonia
+953,US,87,38,Oregon
+954,US,87,15,California
+955,Italy,87,50,Piedmont
+956,Italy,87,30,Southern Italy
+957,US,87,24,California
+958,Spain,87,18,Northern Spain
+959,France,87,40,Champagne
+960,France,87,18,Bordeaux
+961,France,87,20,Bordeaux
+962,France,85,40,Champagne
+963,France,85,11,Bordeaux
+964,Italy,85,17,Lombardy
+965,Italy,85,48,Southern Italy
+966,New Zealand,85,9,Marlborough
+967,Chile,85,10,Casablanca Valley
+968,Italy,85,,Veneto
+969,Chile,85,9,Maipo Valley
+970,US,85,19,California
+971,France,85,15,Champagne
+972,US,85,23,California
+973,US,85,35,California
+974,US,85,30,Washington
+975,Italy,85,12,Sicily & Sardinia
+976,US,85,17,California
+977,US,85,16,California
+978,US,85,15,California
+979,France,85,10,Bordeaux
+980,Italy,85,41,Veneto
+981,France,85,10,Bordeaux
+982,Italy,85,16,Veneto
+983,US,85,25,California
+984,Romania,85,12,Dealu Mare
+985,Argentina,88,20,Mendoza Province
+986,Portugal,88,,Port
+987,Australia,88,25,South Australia
+988,US,88,20,Oregon
+989,Spain,88,53,Northern Spain
+990,US,88,12,California
+991,France,88,,Southwest France
+992,France,88,14,Southwest France
+993,France,88,12,Southwest France
+994,France,88,22,Loire Valley
+995,Italy,88,26,Sicily & Sardinia
+996,Italy,88,14,Sicily & Sardinia
+997,Australia,88,18,South Australia
+998,US,88,18,Oregon
+999,US,88,17,Oregon
+1000,US,88,24,Oregon
+,Italy,88,41,Sicily & Sardinia
+1002,US,88,60,Oregon
+1003,France,88,26,Southwest France
+1004,France,88,25,Southwest France
+1005,France,88,16,Loire Valley
+1006,US,88,40,Oregon
+1007,France,88,21,Loire Valley
+1008,Australia,88,14,South Australia
+1009,Chile,88,18,Maipo Valley
+1010,US,88,75,Oregon
+1011,US,88,16,New York
+1012,Italy,88,,Sicily & Sardinia
+1013,Italy,88,45,Sicily & Sardinia
+1014,US,88,42,California
+1015,US,88,48,California
+1016,Italy,88,22,Sicily & Sardinia
+1017,Italy,88,22,Sicily & Sardinia
+1018,France,88,20,Alsace
+1019,US,88,125,California
+1020,US,88,14,Oregon
+1021,Argentina,88,20,Mendoza Province
+1022,Italy,88,27,Sicily & Sardinia
+1023,Israel,88,25,Galilee
+1024,France,88,28,Alsace
+1025,US,88,42,California
+1026,US,88,13,Oregon
+1027,US,88,34,Oregon
+1028,Spain,88,19,Northern Spain
+1029,Spain,88,18,Northern Spain
+1030,US,88,60,California
+1031,Spain,88,28,Northern Spain
+1032,New Zealand,88,16,Marlborough
+1033,US,88,22,California
+1034,France,88,10,Alsace
+1035,Italy,88,12,Sicily & Sardinia
+1036,Italy,88,28,Sicily & Sardinia
+1037,US,88,28,Oregon
+1038,New Zealand,87,20,Hawke's Bay
+1039,Spain,87,15,Galicia
+1040,Argentina,87,15,Mendoza Province
+1041,New Zealand,87,70,Hawke's Bay
+1042,Spain,85,15,Northern Spain
+1043,Austria,85,20,Niederösterreich
+1044,Italy,85,17,Northeastern Italy
+1045,US,85,24,Oregon
+1046,Italy,85,28,Northeastern Italy
+1047,US,85,16,California
+1048,France,85,12,Languedoc-Roussillon
+1049,France,85,12,Languedoc-Roussillon
+1050,US,85,10,California
+1051,Spain,85,25,Galicia
+1052,US,85,12,California
+1053,Spain,85,30,Northern Spain
+1054,Italy,85,19,Northeastern Italy
+1055,Austria,85,24,Kremstal
+1056,Austria,85,10,Niederösterreich
+1057,Chile,85,11,Central Valley
+1058,US,85,16,California
+1059,Italy,85,,Northeastern Italy
+1060,France,85,11,Southwest France
+1061,France,85,25,France Other
+1062,Italy,85,,Northeastern Italy
+1063,South Africa,85,20,Darling
+1064,Italy,85,,Sicily & Sardinia
+1065,Portugal,94,50,Port
+1066,US,94,38,California
+1067,US,94,34,California
+1068,US,94,100,Oregon
+1069,US,94,95,Oregon
+1070,US,94,62,Oregon
+1071,Italy,94,57,Piedmont
+1072,Portugal,94,150,Douro
+1073,Portugal,94,78,Port
+1074,Australia,94,100,South Australia
+1075,US,94,52,California
+1076,France,94,112,Loire Valley
+1077,Italy,94,180,Piedmont
+1078,US,94,35,Oregon
+1079,US,94,85,Oregon
+1080,US,94,32,Oregon
+1081,US,94,32,Oregon
+1082,US,94,120,Oregon
+1083,US,94,85,California
+1084,France,94,120,Loire Valley
+1085,US,94,38,California
+1086,US,94,32,Oregon
+1087,US,94,58,California
+1088,US,94,85,Oregon
+1089,US,94,80,California
+1090,Portugal,94,60,Port
+1091,US,94,75,California
+1092,US,94,50,Oregon
+1093,France,94,60,Loire Valley
+1094,US,94,60,Oregon
+1095,US,90,28,California
+1096,Chile,90,25,Maipo Valley
+1097,US,90,15,Washington
+1098,US,90,19,California
+1099,US,90,40,California
+1100,Chile,90,35,Maule Valley
+1101,Austria,90,,Niederösterreich
+1102,US,90,45,California
+1103,US,90,13,Washington
+1104,France,90,15,Rhône Valley
+1105,Italy,90,22,Piedmont
+1106,US,90,35,Washington
+1107,US,90,20,California
+1108,US,90,38,California
+1109,Italy,90,70,Tuscany
+1110,Spain,90,60,Northern Spain
+1111,Spain,90,25,Catalonia
+1112,France,90,17,Rhône Valley
+1113,US,90,15,Washington
+1114,Italy,90,38,Tuscany
+1115,Spain,90,27,Northern Spain
+1116,US,90,10,California
+1117,US,90,56,California
+1118,Italy,90,18,Tuscany
+1119,France,90,32,Southwest France
+1120,France,90,24,France Other
+1121,France,90,,France Other
+1122,US,84,16,New York
+1123,US,84,40,Washington
+1124,US,84,20,Washington
+1125,US,84,38,California
+1126,France,84,20,Bordeaux
+1127,France,84,18,Bordeaux
+1128,France,84,,Bordeaux
+1129,Chile,84,13,Maule Valley
+1130,US,84,65,California
+1131,New Zealand,84,16,Marlborough
+1132,France,84,14,Bordeaux
+1133,France,84,20,Bordeaux
+1134,France,84,15,Bordeaux
+1135,Chile,84,11,Chile
+1136,US,84,27,California
+1137,Italy,84,11,Sicily & Sardinia
+1138,Italy,84,10,Southern Italy
+1139,US,84,100,California
+1140,US,84,25,New York
+1141,Chile,84,18,Leyda Valley
+1142,US,84,13,California
+1143,US,84,28,California
+1144,US,83,11,California
+1145,France,83,12,Bordeaux
+1146,Italy,83,,Southern Italy
+1147,US,83,17,Washington
+1148,Italy,83,14,Sicily & Sardinia
+1149,France,83,30,Bordeaux
+1150,Chile,83,11,Central Valley
+1151,US,83,45,New York
+1152,US,87,24,Washington
+1153,Austria,87,15,Südoststeiermark
+1154,Australia,87,19,South Australia
+1155,Greece,87,15,Corinth
+1156,Austria,87,23,Kremstal
+1157,US,87,60,California
+1158,Austria,87,16,Burgenland
+1159,Austria,87,21,Burgenland
+1160,Greece,87,13,Halkidiki
+1161,Italy,86,17,Veneto
+1162,Italy,86,15,Veneto
+1163,Italy,86,20,Veneto
+1164,Italy,86,19,Veneto
+1165,US,86,23,California
+1166,US,86,18,California
+1167,Italy,86,13,Veneto
+1168,US,86,26,Washington
+1169,Italy,86,13,Veneto
+1170,Argentina,86,17,Mendoza Province
+1171,Germany,86,20,Rheinhessen
+1172,US,86,48,California
+1173,US,86,40,California
+1174,Argentina,86,12,Mendoza Province
+1175,Austria,86,12,Burgenland
+1176,Italy,86,18,Veneto
+1177,Portugal,88,14,Douro
+1178,Argentina,88,19,Mendoza Province
+1179,France,88,10,Burgundy
+1180,US,88,26,California
+1181,Italy,88,50,Piedmont
+1182,Australia,88,13,South Australia
+1183,Italy,88,49,Piedmont
+1184,Italy,88,50,Piedmont
+1185,Portugal,88,19,Alentejo
+1186,France,88,14,Burgundy
+1187,Turkey,88,20,Thrace
+1188,France,88,28,Burgundy
+1189,France,88,70,Burgundy
+1190,US,88,13,California
+1191,France,88,40,Burgundy
+1192,France,88,10,France Other
+1193,Argentina,88,16,Mendoza Province
+1194,Argentina,87,40,Mendoza Province
+1195,Argentina,87,20,Mendoza Province
+1196,US,87,35,Oregon
+1197,Italy,87,90,Piedmont
+1198,Australia,87,25,Victoria
+1199,Australia,87,13,South Australia
+1200,Germany,87,10,Pfalz
+1201,France,87,32,Burgundy
+1202,US,87,26,Texas
+1203,US,87,14,California
+1204,Portugal,87,10,Lisboa
+1205,Italy,87,75,Piedmont
+1206,US,87,35,Oregon
+1207,Italy,93,80,Piedmont
+1208,Portugal,93,55,Douro
+1209,US,93,24,California
+1210,US,93,52,California
+1211,US,93,115,California
+1212,US,93,60,California
+1213,US,93,40,California
+1214,US,93,55,California
+1215,Portugal,93,28,Douro
+1216,US,93,60,California
+1217,Italy,93,33,Piedmont
+1218,Italy,93,57,Central Italy
+1219,US,93,75,California
+1220,France,93,40,Bordeaux
+1221,US,93,58,California
+1222,US,93,55,California
+1223,US,93,65,California
+1224,Portugal,93,75,Alentejo
+1225,US,93,38,California
+1226,US,93,49,California
+1227,US,93,32,California
+1228,US,93,55,California
+1229,Portugal,93,32,Douro
+1230,US,93,65,California
+1231,US,93,40,California
+1232,US,92,50,California
+1233,US,92,42,California
+1234,US,92,60,California
+1235,US,92,48,California
+1236,US,92,36,California
+1237,Italy,88,16,Tuscany
+1238,France,88,9,Bordeaux
+1239,Italy,88,35,Tuscany
+1240,France,88,40,Bordeaux
+1241,US,88,13,Washington
+1242,South Africa,88,17,Robertson
+1243,Germany,88,20,Pfalz
+1244,US,88,50,California
+1245,South Africa,88,35,Stellenbosch
+1246,US,88,40,California
+1247,South Africa,88,13,Robertson
+1248,US,88,50,Washington
+1249,US,88,20,Washington
+1250,Italy,88,,Tuscany
+1251,Germany,88,22,Pfalz
+1252,Germany,88,12,Pfalz
+1253,US,88,7,Washington
+1254,US,88,10,Washington
+1255,South Africa,88,15,Stellenbosch
+1256,US,88,40,California
+1257,Spain,88,21,Northern Spain
+1258,Italy,88,90,Tuscany
+1259,Spain,85,7,Central Spain
+1260,Italy,85,22,Sicily & Sardinia
+1261,Italy,85,,Sicily & Sardinia
+1262,US,85,20,California
+1263,US,85,13,New York
+1264,US,85,35,California
+1265,Israel,85,12,Dan
+1266,US,85,16,Michigan
+1267,US,85,20,California
+1268,Italy,85,12,Sicily & Sardinia
+1269,Spain,85,30,Galicia
+1270,US,85,34,California
+1271,US,85,26,California
+1272,Italy,84,,Sicily & Sardinia
+1273,US,84,15,California
+1274,Italy,84,28,Sicily & Sardinia
+1275,US,84,10,California
+1276,US,84,70,California
+1277,US,84,24,California
+1278,Italy,84,10,Sicily & Sardinia
+1279,Portugal,84,,Vinho Verde
+1280,Spain,84,8,Central Spain
+1281,Spain,84,27,Northern Spain
+1282,US,84,10,New York
+1283,Italy,84,10,Sicily & Sardinia
+1284,France,84,,Burgundy
+1285,New Zealand,84,17,Marlborough
+1286,Italy,89,20,Southern Italy
+1287,US,89,35,California
+1288,Italy,89,19,Northeastern Italy
+1289,Germany,89,13,Rheinhessen
+1290,Italy,89,48,Northeastern Italy
+1291,Italy,89,26,Northeastern Italy
+1292,Italy,89,13,Northeastern Italy
+1293,US,89,75,California
+1294,Spain,89,30,Catalonia
+1295,US,89,25,California
+1296,France,89,14,Loire Valley
+1297,Italy,89,20,Northwestern Italy
+1298,US,89,36,California
+1299,Italy,89,49,Northeastern Italy
+1300,US,89,35,California
+1301,France,89,20,Loire Valley
+1302,France,89,21,Loire Valley
+1303,Germany,89,28,Rheingau
+1304,Germany,89,20,Mosel
+1305,Spain,89,18,Andalucia
+1306,Spain,89,20,Catalonia
+1307,US,89,40,Oregon
+1308,Portugal,89,13,Vinho Verde
+1309,US,89,45,California
+1310,US,89,40,California
+1311,US,89,32,California
+1312,Italy,89,15,Northeastern Italy
+1313,US,89,34,California
+1314,Italy,89,40,Northeastern Italy
+1315,Italy,89,20,Northeastern Italy
+1316,Italy,90,20,Southern Italy
+1317,US,90,42,California
+1318,US,90,98,California
+1319,New Zealand,90,25,Awatere Valley
+1320,Austria,90,18,Wiener Gemischter Satz
+1321,Spain,90,25,Catalonia
+1322,Austria,90,15,Kamptal
+1323,Spain,90,36,Catalonia
+1324,US,90,35,California
+1325,US,90,56,California
+1326,Spain,90,33,Northern Spain
+1327,New Zealand,90,25,Central Otago
+1328,US,90,38,California
+1329,France,90,28,Southwest France
+1330,France,90,22,Provence
+1331,France,90,13,Southwest France
+1332,France,90,,Southwest France
+1333,US,90,38,California
+1334,US,90,22,New York
+1335,US,90,18,New York
+1336,US,90,42,California
+1337,Italy,90,25,Southern Italy
+1338,France,90,21,Provence
+1339,France,90,23,Provence
+1340,France,90,30,Provence
+1341,Austria,90,20,Wachau
+1342,US,90,39,California
+1343,US,90,38,California
+1344,Italy,90,18,Sicily & Sardinia
+1345,US,90,22,Oregon
+1346,Argentina,86,11,Mendoza Province
+1347,Italy,86,29,Southern Italy
+1348,US,86,10,Washington
+1349,Italy,86,35,Sicily & Sardinia
+1350,Italy,86,19,Southern Italy
+1351,France,86,,Bordeaux
+1352,France,86,,Bordeaux
+1353,France,86,14,Bordeaux
+1354,US,86,30,California
+1355,US,86,35,Washington
+1356,France,86,75,Bordeaux
+1357,Spain,86,47,Northern Spain
+1358,Spain,86,10,Northern Spain
+1359,US,86,17,California
+1360,US,86,23,California
+1361,Italy,86,9,Sicily & Sardinia
+1362,US,86,27,California
+1363,Italy,86,18,Southern Italy
+1364,France,86,,Bordeaux
+1365,France,87,15,Provence
+1366,Chile,87,9,Maipo Valley
+1367,France,87,40,Provence
+1368,US,87,20,California
+1369,Italy,86,,Northeastern Italy
+1370,US,86,13,California
+1371,US,86,28,Pennsylvania
+1372,Italy,86,10,Northeastern Italy
+1373,US,86,20,California
+1374,US,86,24,California
+1375,France,86,15,Provence
+1376,US,86,18,California
+1377,Portugal,86,11,Douro
+1378,US,86,18,Washington
+1379,France,86,24,Provence
+1380,US,86,12,California
+1381,US,86,18,California
+1382,Chile,86,20,Curicó Valley
+1383,US,86,15,California
+1384,Italy,88,25,Northeastern Italy
+1385,Germany,88,14,Mosel
+1386,US,88,36,Oregon
+1387,Italy,88,27,Northeastern Italy
+1388,US,88,42,California
+1389,South Africa,88,16,Swartland
+1390,South Africa,88,,Swartland
+1391,Italy,88,20,Northeastern Italy
+1392,US,88,48,California
+1393,US,88,,California
+1394,Argentina,88,19,Mendoza Province
+1395,US,88,40,California
+1396,US,88,50,Michigan
+1397,Portugal,88,21,Port
+1398,Germany,88,16,Mosel
+1399,Italy,88,19,Northeastern Italy
+1400,Portugal,88,11,Dão
+1401,US,88,25,Michigan
+1402,Italy,88,23,Northeastern Italy
+1403,Italy,88,30,Northeastern Italy
+1404,Italy,88,28,Northeastern Italy
+1405,US,88,22,California
+1406,US,88,15,California
+1407,Italy,88,20,Northeastern Italy
+1408,Italy,88,20,Northeastern Italy
+1409,US,88,70,California
+1410,Germany,88,9,Mosel
+1411,Portugal,88,40,Douro
+1412,Portugal,88,30,Port
+1413,US,88,16,California
+1414,France,93,,Provence
+1415,France,93,31,Alsace
+1416,France,93,30,Alsace
+1417,US,93,38,California
+1418,US,93,45,Washington
+1419,US,93,50,Washington
+1420,US,93,24,Washington
+1421,France,93,,Alsace
+1422,Austria,93,,Burgenland
+1423,US,93,86,California
+1424,US,92,55,Washington
+1425,Austria,92,,Leithaberg
+1426,France,92,28,Alsace
+1427,France,92,45,Alsace
+1428,US,92,85,California
+1429,US,92,50,Washington
+1430,US,92,120,California
+1431,US,92,30,Washington
+1432,France,92,25,Provence
+1433,France,92,40,Provence
+1434,South Africa,92,50,Simonsberg-Stellenbosch
+1435,US,92,32,Washington
+1436,US,92,40,Washington
+1437,France,92,,Provence
+1438,Austria,92,46,Wachau
+1439,US,92,39,Washington
+1440,US,92,85,California
+1441,Austria,92,,Wagram-Donauland
+1442,Austria,92,60,Burgenland
+1443,US,94,75,California
+1444,US,94,120,California
+1445,France,94,25,Southwest France
+1446,France,94,80,Burgundy
+1447,Portugal,94,85,Douro
+1448,US,94,28,California
+1449,France,94,180,Rhône Valley
+1450,France,94,85,Burgundy
+1451,France,94,135,Burgundy
+1452,Italy,94,125,Tuscany
+1453,France,94,90,Burgundy
+1454,Italy,94,154,Veneto
+1455,US,94,70,California
+1456,US,94,150,California
+1457,Germany,94,56,Mosel
+1458,France,94,49,Southwest France
+1459,US,94,72,California
+1460,Italy,93,48,Northeastern Italy
+1461,US,93,35,California
+1462,Italy,93,70,Tuscany
+1463,France,93,132,Burgundy
+1464,US,93,38,California
+1465,Portugal,93,20,Alentejo
+1466,US,93,175,California
+1467,US,93,36,California
+1468,US,93,60,California
+1469,US,93,110,California
+1470,US,93,100,California
+1471,Italy,93,85,Tuscany
+1472,US,93,80,California
+1473,Chile,86,12,Colchagua Valley
+1474,Italy,86,18,Central Italy
+1475,Italy,86,15,Northeastern Italy
+1476,US,86,20,Washington
+1477,Chile,86,14,Rio Claro
+1478,Australia,85,12,South Australia
+1479,Chile,85,9,Maule Valley
+1480,Chile,85,12,Colchagua Valley
+1481,US,85,9,California
+1482,Argentina,85,10,Mendoza Province
+1483,France,85,19,Loire Valley
+1484,New Zealand,85,11,Marlborough
+1485,US,85,75,California
+1486,Hungary,85,48,Villány
+1487,US,85,22,California
+1488,Italy,85,35,Central Italy
+1489,Italy,85,12,Tuscany
+1490,New Zealand,85,23,Marlborough
+1491,Italy,85,15,Central Italy
+1492,New Zealand,85,16,Marlborough
+1493,Argentina,85,12,Other
+1494,US,85,34,California
+1495,US,85,65,California
+1496,Argentina,85,10,Mendoza Province
+1497,Argentina,85,8,Mendoza Province
+1498,Italy,85,16,Northeastern Italy
+1499,Chile,85,12,Cachapoal Valley
+1500,Italy,92,43,Sicily & Sardinia
+1501,US,92,32,California
+1502,US,92,71,California
+1503,Italy,92,65,Sicily & Sardinia
+1504,US,92,60,Oregon
+1505,Austria,92,,Kamptal
+1506,France,92,15,Southwest France
+1507,France,92,35,Southwest France
+1508,France,92,,Beaujolais
+1509,Chile,92,92,Colchagua Valley
+1510,US,92,42,California
+1511,Italy,92,65,Sicily & Sardinia
+1512,France,92,35,Beaujolais
+1513,Italy,92,43,Sicily & Sardinia
+1514,US,92,54,Oregon
+1515,US,92,75,California
+1516,France,92,16,Bordeaux
+1517,France,92,35,Southwest France
+1518,France,92,26,Southwest France
+1519,Chile,92,38,Maipo Valley
+1520,France,92,50,Southwest France
+1521,Chile,92,29,Cachapoal Valley
+1522,Italy,92,42,Sicily & Sardinia
+1523,US,92,48,Oregon
+1524,Chile,92,40,Cachapoal Valley
+1525,US,92,100,California
+1526,Italy,86,21,Sicily & Sardinia
+1527,Portugal,86,14,Alentejano
+1528,Portugal,86,13,Alentejano
+1529,US,86,15,California
+1530,Spain,86,15,Catalonia
+1531,Spain,86,9,Levante
+1532,Spain,85,17,Central Spain
+1533,US,85,20,California
+1534,France,85,34,Loire Valley
+1535,France,85,20,Bordeaux
+1536,France,85,12,Bordeaux
+1537,France,85,,Bordeaux
+1538,France,85,15,Bordeaux
+1539,US,85,11,California
+1540,Spain,85,10,Catalonia
+1541,Portugal,85,9,Lisboa
+1542,Portugal,85,10,Lisboa
+1543,Romania,85,10,Jidvei
+1544,Italy,85,14,Southern Italy
+1545,Spain,85,20,Catalonia
+1546,Chile,85,15,Colchagua Valley
+1547,Portugal,85,7,Lisboa
+1548,Chile,85,8,Central Valley
+1549,Chile,85,10,Central Valley
+1550,Italy,85,20,Veneto
+1551,Portugal,85,12,Península de Setúbal
+1552,Portugal,85,8,Alentejo
+1553,Italy,85,18,Southern Italy
+1554,US,85,28,California
+1555,Portugal,85,9,Vinho Verde
+1556,US,99,125,Washington
+1557,US,99,94,California
+1558,France,98,1900,Bordeaux
+1559,France,98,380,Bordeaux
+1560,US,98,50,Washington
+1561,Italy,98,102,Tuscany
+1562,France,97,170,Bordeaux
+1563,Italy,97,220,Tuscany
+1564,Italy,97,215,Tuscany
+1565,US,97,150,California
+1566,France,97,1100,Bordeaux
+1567,US,97,82,California
+1568,France,96,280,Bordeaux
+1569,France,96,200,Bordeaux
+1570,Italy,96,75,Tuscany
+1571,France,96,1200,Bordeaux
+1572,France,96,,Bordeaux
+1573,France,96,195,Bordeaux
+1574,US,96,125,California
+1575,France,96,1300,Bordeaux
+1576,France,96,400,Bordeaux
+1577,US,96,78,California
+1578,France,96,75,Bordeaux
+1579,US,95,56,California
+1580,France,95,89,Bordeaux
+1581,France,95,163,Bordeaux
+1582,France,95,110,Bordeaux
+1583,US,95,60,Washington
+1584,US,95,75,California
+1585,US,88,28,California
+1586,US,88,34,New York
+1587,US,88,35,California
+1588,Italy,88,16,Sicily & Sardinia
+1589,France,88,45,Bordeaux
+1590,France,88,20,Bordeaux
+1591,US,88,21,New York
+1592,France,88,,Bordeaux
+1593,France,88,30,Bordeaux
+1594,France,88,,Bordeaux
+1595,France,88,45,Bordeaux
+1596,France,88,22,Bordeaux
+1597,France,88,,Bordeaux
+1598,US,88,18,Washington
+1599,France,88,58,Bordeaux
+1600,US,88,10,California
+1601,US,88,55,California
+1602,US,88,16,Washington
+1603,Italy,88,25,Sicily & Sardinia
+1604,US,88,25,Washington
+1605,New Zealand,87,18,Hawke's Bay
+1606,US,87,20,New York
+1607,US,87,12,California
+1608,US,87,30,Washington
+1609,Italy,87,14,Sicily & Sardinia
+1610,US,87,24,Washington
+1611,France,87,19,Bordeaux
+1612,France,87,,Bordeaux
+1613,France,87,15,Bordeaux
+1614,France,87,26,Bordeaux
+1615,France,85,10,France Other
+1616,France,85,10,France Other
+1617,Portugal,85,12,Tejo
+1618,Argentina,85,10,Mendoza Province
+1619,Portugal,85,8,Alentejo
+1620,Portugal,85,6,Alentejano
+1621,Argentina,85,13,Mendoza Province
+1622,Argentina,85,13,Mendoza Province
+1623,France,85,13,Loire Valley
+1624,France,85,12,France Other
+1625,US,85,16,Virginia
+1626,Argentina,85,12,Mendoza Province
+1627,US,85,17,America
+1628,France,85,22,Loire Valley
+1629,Portugal,85,7,Alentejano
+1630,Portugal,85,8,Alentejano
+1631,US,85,22,Virginia
+1632,France,85,12,France Other
+1633,Portugal,85,15,Península de Setúbal
+1634,Argentina,85,10,Mendoza Province
+1635,US,85,12,California
+1636,Australia,85,8,Australia Other
+1637,US,85,20,California
+1638,France,85,20,Loire Valley
+1639,Portugal,85,10,Douro
+1640,Portugal,85,12,Tejo
+1641,US,85,15,California
+1642,Italy,85,40,Piedmont
+1643,US,85,11,California
+1644,US,85,10,California
+1645,Spain,85,27,Catalonia
+1646,Argentina,85,13,Mendoza Province
+1647,US,85,25,California
+1648,Argentina,85,10,Mendoza Province
+1649,Australia,85,16,Western Australia
+1650,Portugal,85,9,Lisboa
+1651,Argentina,85,20,Other
+1652,US,85,18,Oregon
+1653,Portugal,85,10,Lisboa
+1654,Portugal,85,10,Alentejano
+1655,Portugal,85,11,Douro
+1656,France,85,13,Bordeaux
+1657,France,85,20,Bordeaux
+1658,France,85,13,Bordeaux
+1659,US,85,25,Oregon
+1660,US,85,35,Oregon
+1661,US,85,28,Oregon
+1662,Italy,85,10,Central Italy
+1663,Portugal,85,13,Alentejano
+1664,US,85,10,California
+1665,Argentina,85,12,Other
+1666,Australia,85,9,Australia Other
+1667,US,85,12,California
+1668,Italy,85,19,Central Italy
+1669,France,85,20,Bordeaux
+1670,France,85,28,Bordeaux
+1671,US,85,25,Oregon
+1672,US,90,65,Oregon
+1673,US,90,20,California
+1674,France,90,40,Rhône Valley
+1675,France,90,126,Rhône Valley
+1676,Italy,90,,Tuscany
+1677,US,90,50,California
+1678,US,90,30,California
+1679,US,90,28,California
+1680,Argentina,90,25,Mendoza Province
+1681,Austria,90,20,Niederösterreich
+1682,Italy,90,,Tuscany
+1683,US,90,16,Oregon
+1684,Austria,90,16,Traisental
+1685,Italy,90,,Tuscany
+1686,US,90,18,Oregon
+1687,Italy,90,,Tuscany
+1688,US,90,115,California
+1689,US,90,35,California
+1690,US,90,20,California
+1691,France,90,63,Rhône Valley
+1692,US,90,18,California
+1693,Austria,90,44,Niederösterreich
+1694,US,90,12,California
+1695,Argentina,90,15,Mendoza Province
+1696,Italy,86,50,Tuscany
+1697,Israel,86,16,Galilee
+1698,Italy,86,85,Tuscany
+1699,Italy,86,16,Tuscany
+1700,Portugal,86,15,Bairrada
+1701,Spain,86,12,Northern Spain
+1702,US,86,14,California
+1703,US,86,10,New York
+1704,Israel,86,35,Negev Hills
+1705,Italy,86,15,Tuscany
+1706,Australia,86,14,Australia Other
+1707,Australia,86,23,Western Australia
+1708,Spain,86,15,Northern Spain
+1709,Italy,86,65,Tuscany
+1710,US,86,25,California
+1711,Spain,85,10,Northern Spain
+1712,Australia,85,20,South Australia
+1713,Italy,85,29,Tuscany
+1714,Portugal,85,20,Douro
+1715,Israel,85,23,Galilee
+1716,US,85,19,California
+1717,Portugal,85,11,Ribatejano
+1718,Spain,85,15,Catalonia
+1719,US,85,10,California
+1720,Spain,85,10,Central Spain
+1721,Spain,85,8,Northern Spain
+1722,Spain,85,10,Galicia
+1723,Australia,85,30,South Australia
+1724,US,85,22,Pennsylvania
+1725,US,85,18,New York
+1726,Spain,92,47,Northern Spain
+1727,France,92,,Bordeaux
+1728,US,92,48,California
+1729,US,92,30,California
+1730,US,92,35,Washington
+1731,US,92,20,Washington
+1732,Italy,92,90,Tuscany
+1733,France,92,135,Bordeaux
+1734,US,92,40,Washington
+1735,US,92,40,Washington
+1736,Italy,92,50,Tuscany
+1737,US,92,22,California
+1738,Italy,92,80,Tuscany
+1739,US,92,29,California
+1740,Italy,92,75,Tuscany
+1741,US,92,56,Washington
+1742,US,92,45,California
+1743,Italy,92,45,Tuscany
+1744,France,92,,Bordeaux
+1745,France,92,,Bordeaux
+1746,France,92,,Bordeaux
+1747,France,92,49,Bordeaux
+1748,France,92,,Bordeaux
+1749,US,92,30,California
+1750,France,84,13,Bordeaux
+1751,Spain,84,12,Levante
+1752,US,84,10,Washington
+1753,Spain,84,25,Northern Spain
+1754,France,84,20,Bordeaux
+1755,Spain,84,13,Catalonia
+1756,US,84,29,Washington
+1757,France,84,15,Loire Valley
+1758,France,84,19,France Other
+1759,Spain,84,10,Central Spain
+1760,France,84,12,Bordeaux
+1761,US,84,25,New York
+1762,US,84,37,California
+1763,US,84,20,New York
+1764,Spain,84,14,Catalonia
+1765,France,84,12,Bordeaux
+1766,US,84,18,Washington
+1767,France,84,25,Bordeaux
+1768,France,84,25,Bordeaux
+1769,Chile,84,15,Cachapoal Valley
+1770,France,84,,Bordeaux
+1771,US,84,9,California
+1772,France,84,13,France Other
+1773,Chile,84,13,Central Valley
+1774,US,84,22,California
+1775,France,84,,Bordeaux
+1776,France,84,17,Bordeaux
+1777,France,84,23,Bordeaux
+1778,France,84,,Bordeaux
+1779,France,84,15,Bordeaux
+1780,US,91,33,Washington
+1781,Italy,91,55,Tuscany
+1782,Spain,91,33,Catalonia
+1783,France,91,35,Bordeaux
+1784,France,91,,Bordeaux
+1785,France,91,26,Bordeaux
+1786,US,91,20,Idaho
+1787,US,91,45,California
+1788,US,91,50,California
+1789,US,91,40,California
+1790,Argentina,91,24,Mendoza Province
+1791,US,91,60,California
+1792,US,91,29,Washington
+1793,Italy,91,,Tuscany
+1794,US,91,30,California
+1795,US,91,40,California
+1796,US,91,45,Washington
+1797,Italy,91,,Tuscany
+1798,Italy,91,50,Piedmont
+1799,France,91,,Bordeaux
+1800,France,91,29,Bordeaux
+1801,Portugal,85,10,Tejo
+1802,Portugal,85,20,Duriense
+1803,France,85,19,Beaujolais
+1804,France,85,,Beaujolais
+1805,US,85,28,California
+1806,Spain,85,15,Catalonia
+1807,France,85,50,Champagne
+1808,US,85,15,California
+1809,Spain,85,11,Levante
+1810,Spain,85,16,Northern Spain
+1811,US,85,14,California
+1812,Portugal,85,11,Tejo
+1813,Portugal,85,20,Duriense
+1814,Spain,85,9,Levante
+1815,Argentina,85,12,Mendoza Province
+1816,Spain,85,15,Catalonia
+1817,US,85,25,California
+1818,France,85,,Beaujolais
+1819,France,85,,Beaujolais
+1820,France,85,15,Beaujolais
+1821,Portugal,85,13,Alentejano
+1822,Argentina,85,12,Mendoza Province
+1823,France,85,20,Beaujolais
+1824,France,85,22,Beaujolais
+1825,US,84,18,California
+1826,France,84,12,Beaujolais
+1827,Spain,84,23,Galicia
+1828,Spain,84,16,Levante
+1829,US,84,46,California
+1830,US,84,15,Oregon
+1831,US,84,50,California
+1832,US,84,10,California
+1833,Spain,84,13,Northern Spain
+1834,US,84,23,California
+1835,Spain,84,25,Northern Spain
+1836,US,84,19,Michigan
+1837,France,84,23,Alsace
+1838,US,84,47,California
+1839,US,84,60,California
+1840,US,84,42,California
+1841,US,84,13,California
+1842,US,83,16,California
+1843,Spain,83,25,Northern Spain
+1844,Argentina,83,,Mendoza Province
+1845,Spain,83,20,Galicia
+1846,Spain,83,30,Northern Spain
+1847,Spain,83,12,Northern Spain
+1848,Spain,83,9,Central Spain
+1849,US,83,38,California
+1850,US,83,25,New Jersey
+1851,Argentina,83,13,Mendoza Province
+1852,France,83,21,Alsace
+1853,US,83,25,Oregon
+1854,Spain,83,15,Northern Spain
+1855,Argentina,83,25,Mendoza Province
+1856,US,83,55,California
+1857,US,83,,California
+1858,US,83,29,Oregon
+1859,Italy,83,30,Sicily & Sardinia
+1860,France,94,180,Bordeaux
+1861,France,94,74,Bordeaux
+1862,France,94,,Bordeaux
+1863,US,94,300,California
+1864,Italy,94,130,Tuscany
+1865,Italy,93,120,Tuscany
+1866,US,93,30,Washington
+1867,US,93,36,California
+1868,US,93,85,Washington
+1869,Italy,93,75,Tuscany
+1870,Portugal,93,,Dão
+1871,France,93,45,Bordeaux
+1872,France,93,90,Bordeaux
+1873,US,93,36,Washington
+1874,France,93,75,Languedoc-Roussillon
+1875,Italy,93,80,Tuscany
+1876,Italy,93,,Tuscany
+1877,Italy,93,,Tuscany
+1878,US,93,50,California
+1879,France,93,47,Bordeaux
+1880,France,93,270,Bordeaux
+1881,US,93,50,Washington
+1882,US,93,28,Washington
+1883,US,93,55,California
+1884,Portugal,93,70,Beiras
+1885,Italy,93,60,Tuscany
+1886,Australia,93,50,South Australia
+1887,US,93,48,California
+1888,US,93,22,Washington
+1889,France,89,23,Burgundy
+1890,Australia,89,20,South Australia
+1891,Australia,89,25,South Australia
+1892,Italy,89,21,Southern Italy
+1893,US,89,46,California
+1894,Australia,89,18,South Australia
+1895,Italy,89,22,Southern Italy
+1896,US,89,30,Oregon
+1897,Australia,89,12,South Australia
+1898,Spain,89,150,Catalonia
+1899,Argentina,89,10,Mendoza Province
+1900,US,89,18,Oregon
+1901,France,89,28,Burgundy
+1902,Argentina,89,12,Mendoza Province
+1903,Australia,89,30,Victoria
+1904,Italy,89,24,Southern Italy
+1905,US,89,55,California
+1906,Spain,89,53,Spanish Islands
+1907,Italy,89,30,Southern Italy
+1908,Australia,88,14,Australia Other
+1909,Australia,88,22,South Australia
+1910,US,88,15,California
+1911,US,87,25,California
+1912,Austria,87,32,Österreichischer Sekt
+1913,US,87,14,Washington
+1914,US,87,50,California
+1915,Chile,87,30,Colchagua Valley
+1916,Chile,87,16,Casablanca Valley
+1917,Chile,87,19,Aconcagua Valley
+1918,France,87,12,Bordeaux
+1919,France,87,20,Bordeaux
+1920,France,87,13,Bordeaux
+1921,US,87,26,Washington
+1922,Austria,87,17,Wachau
+1923,US,87,32,California
+1924,Chile,87,15,Colchagua Valley
+1925,Italy,87,50,Piedmont
+1926,US,87,28,Washington
+1927,France,87,17,Bordeaux
+1928,Italy,87,25,Piedmont
+1929,US,87,11,California
+1930,Australia,87,30,Western Australia
+1931,Israel,87,35,Upper Galilee
+1932,Italy,87,80,Piedmont
+1933,France,87,18,Bordeaux
+1934,Australia,87,53,South Australia
+1935,Chile,87,18,Leyda Valley
+1936,US,87,60,California
+1937,Chile,87,30,Colchagua Valley
+1938,Chile,87,19,Maipo Valley
+1939,US,87,15,Washington
+1940,France,87,20,Bordeaux
+1941,Austria,87,14,Wachau
+1942,US,87,40,Washington
+1943,US,87,19,California
+1944,France,87,13,Southwest France
+1945,US,87,65,California
+1946,US,87,36,California
+1947,US,87,24,Washington
+1948,US,86,32,California
+1949,Chile,86,10,Maipo Valley
+1950,US,86,15,Washington
+1951,France,86,15,Bordeaux
+1952,US,86,24,California
+1953,US,86,32,Washington
+1954,Chile,86,18,Cachapoal Valley
+1955,Israel,86,15,Galilee
+1956,US,86,24,California
+1957,France,88,17,Beaujolais
+1958,US,88,40,California
+1959,US,88,35,Virginia
+1960,Italy,88,30,Sicily & Sardinia
+1961,Italy,88,32,Sicily & Sardinia
+1962,US,88,35,California
+1963,US,88,60,California
+1964,France,88,15,Beaujolais
+1965,Chile,88,20,Casablanca Valley
+1966,US,88,40,Oregon
+1967,Italy,88,20,Southern Italy
+1968,France,88,10,Bordeaux
+1969,France,88,35,Bordeaux
+1970,France,88,20,Beaujolais
+1971,France,88,18,Southwest France
+1972,Italy,88,14,Sicily & Sardinia
+1973,US,88,22,Oregon
+1974,US,88,50,Oregon
+1975,Italy,88,15,Southern Italy
+1976,France,88,16,Southwest France
+1977,Italy,88,15,Southern Italy
+1978,Italy,88,25,Southern Italy
+1979,US,88,45,California
+1980,US,88,28,California
+1981,Italy,88,,Sicily & Sardinia
+1982,US,88,22,Virginia
+1983,Italy,88,19,Sicily & Sardinia
+1984,US,88,40,California
+1985,US,88,18,California
+1986,France,88,14,Beaujolais
+1987,Spain,85,4,Central Spain
+1988,Spain,85,13,Levante
+1989,US,85,16,Oregon
+1990,France,85,25,Alsace
+1991,Argentina,84,15,Mendoza Province
+1992,Argentina,84,20,Mendoza Province
+1993,Argentina,84,11,Mendoza Province
+1994,US,84,18,Virginia
+1995,US,84,20,California
+1996,US,84,25,Oregon
+1997,Italy,84,11,Sicily & Sardinia
+1998,France,84,15,Alsace
+1999,France,84,19,Alsace
+2000,Italy,84,12,Sicily & Sardinia
+2001,Spain,84,10,Central Spain
+2002,Argentina,84,10,Mendoza Province
+2003,France,84,8,Alsace
+2004,US,84,19,Oregon
+2005,Portugal,84,20,Vinho Espumante
+2006,Portugal,84,11,Península de Setúbal
+2007,France,84,23,Alsace
+2008,US,84,15,California
+2009,France,84,19,Alsace
+2010,France,84,24,Alsace
+2011,US,84,15,California
+2012,Argentina,84,12,Mendoza Province
+2013,France,84,15,Alsace
+2014,Spain,84,17,Northern Spain
+2015,France,84,16,Alsace
+2016,France,84,17,Alsace
+2017,Portugal,87,,Tejo
+2018,US,87,25,California
+2019,US,87,38,California
+2020,US,87,28,California
+2021,US,87,40,Oregon
+2022,Italy,87,,Lombardy
+2023,Italy,87,19,Northeastern Italy
+2024,US,87,45,Oregon
+2025,Chile,87,15,Maipo Valley
+2026,France,87,15,Burgundy
+2027,Chile,87,15,Maipo Valley
+2028,Italy,87,9,Northeastern Italy
+2029,Italy,87,15,Lombardy
+2030,Italy,87,39,Tuscany
+2031,US,87,25,California
+2032,Portugal,87,13,Douro
+2033,Portugal,87,,Tejo
+2034,US,87,45,California
+2035,US,87,35,California
+2036,Italy,87,15,Veneto
+2037,Italy,87,17,Northeastern Italy
+2038,France,87,22,Bordeaux
+2039,Italy,92,,Piedmont
+2040,France,92,,Champagne
+2041,France,92,70,Champagne
+2042,US,92,25,California
+2043,Italy,92,82,Piedmont
+2044,Italy,92,75,Piedmont
+2045,Italy,92,85,Piedmont
+2046,Italy,92,,Piedmont
+2047,Italy,92,,Piedmont
+2048,Austria,92,,Burgenland
+2049,Austria,92,40,Niederösterreich
+2050,Austria,92,40,Niederösterreich
+2051,Austria,92,35,Niederösterreich
+2052,US,92,48,California
+2053,US,92,55,California
+2054,Italy,92,50,Piedmont
+2055,Italy,92,48,Piedmont
+2056,Italy,92,,Piedmont
+2057,Italy,92,,Piedmont
+2058,Italy,92,,Piedmont
+2059,Italy,92,,Piedmont
+2060,Italy,92,76,Piedmont
+2061,Italy,92,,Piedmont
+2062,US,91,17,California
+2063,France,91,60,Champagne
+2064,US,91,58,California
+2065,US,90,25,California
+2066,US,90,35,California
+2067,US,90,65,California
+2068,US,90,36,Washington
+2069,US,90,35,California
+2070,US,90,49,California
+2071,France,90,31,Bordeaux
+2072,Italy,90,,Veneto
+2073,US,90,28,Washington
+2074,Italy,90,45,Sicily & Sardinia
+2075,Italy,90,41,Sicily & Sardinia
+2076,France,90,37,Bordeaux
+2077,US,90,40,Washington
+2078,Chile,90,25,Casablanca Valley
+2079,France,90,85,Champagne
+2080,US,90,28,California
+2081,US,90,35,California
+2082,US,90,42,California
+2083,Argentina,90,39,Mendoza Province
+2084,Chile,90,22,Maipo Valley
+2085,US,90,24,California
+2086,US,90,50,California
+2087,US,90,22,California
+2088,US,90,26,California
+2089,France,90,60,Champagne
+2090,US,90,19,Washington
+2091,Portugal,87,12,Alentejo
+2092,Italy,87,13,Northeastern Italy
+2093,Italy,87,20,Northeastern Italy
+2094,Portugal,87,17,Vinho Verde
+2095,US,87,12,California
+2096,Italy,87,29,Northeastern Italy
+2097,US,87,18,California
+2098,Italy,87,21,Northeastern Italy
+2099,US,87,30,California
+2100,US,87,24,California
+2101,US,87,20,California
+2102,Italy,87,,Northeastern Italy
+2103,Italy,87,22,Northeastern Italy
+2104,Portugal,87,,Alentejano
+2105,Chile,87,15,Maipo Valley
+2106,Italy,87,19,Northeastern Italy
+2107,US,87,24,California
+2108,Italy,87,12,Northeastern Italy
+2109,US,87,17,Oregon
+2110,Italy,87,,Northeastern Italy
+2111,France,87,36,Provence
+2112,France,87,,Provence
+2113,France,88,30,Bordeaux
+2114,France,88,30,Bordeaux
+2115,Greece,88,79,Epanomi
+2116,US,88,20,California
+2117,US,88,20,Washington
+2118,US,88,25,Washington
+2119,US,88,24,California
+2120,US,88,20,New York
+2121,France,88,,Bordeaux
+2122,France,88,53,Bordeaux
+2123,France,88,42,Bordeaux
+2124,France,88,15,Bordeaux
+2125,US,88,98,California
+2126,US,88,13,California
+2127,US,88,25,California
+2128,US,88,45,Washington
+2129,Italy,88,15,Piedmont
+2130,France,88,22,Loire Valley
+2131,US,88,44,California
+2132,France,88,,Bordeaux
+2133,Italy,88,10,Piedmont
+2134,Italy,85,10,Central Italy
+2135,Spain,85,,Catalonia
+2136,US,84,42,California
+2137,Australia,84,21,South Australia
+2138,Spain,84,12,Northern Spain
+2139,Italy,84,8,Central Italy
+2140,Spain,84,12,Northern Spain
+2141,Argentina,84,10,Mendoza Province
+2142,France,84,22,Bordeaux
+2143,France,84,22,Beaujolais
+2144,US,84,28,Washington
+2145,Spain,84,8,Northern Spain
+2146,US,84,28,Oregon
+2147,Italy,84,10,Central Italy
+2148,Italy,84,11,Central Italy
+2149,Portugal,84,33,Douro
+2150,US,84,12,California
+2151,Spain,84,11,Central Spain
+2152,US,84,11,California
+2153,Spain,84,9,Central Spain
+2154,Spain,84,18,Levante
+2155,Argentina,84,11,Other
+2156,US,84,21,Washington
+2157,France,84,14,Beaujolais
+2158,Portugal,84,9,Lisboa
+2159,Italy,84,15,Central Italy
+2160,Italy,84,,Central Italy
+2161,US,84,23,California
+2162,Spain,84,16,Galicia
+2163,US,84,85,Oregon
+2164,US,90,22,New York
+2165,US,90,17,New York
+2166,Greece,90,15,Nemea
+2167,US,90,24,California
+2168,US,90,30,California
+2169,US,90,28,California
+2170,Austria,90,25,Wachau
+2171,Italy,90,107,Piedmont
+2172,US,90,35,Washington
+2173,Italy,90,58,Piedmont
+2174,US,90,32,California
+2175,Spain,90,31,Northern Spain
+2176,US,90,32,California
+2177,US,90,60,California
+2178,Austria,90,16,Niederösterreich
+2179,Spain,90,31,Catalonia
+2180,France,90,23,Rhône Valley
+2181,Spain,90,30,Northern Spain
+2182,US,90,25,California
+2183,Greece,89,18,Peloponnese
+2184,US,89,70,Washington
+2185,Greece,89,16,Crete
+2186,Italy,89,25,Piedmont
+2187,US,89,13,California
+2188,US,89,15,New York
+2189,US,89,30,California
+2190,US,89,20,California
+2191,US,89,35,California
+2192,US,89,34,California
+2193,US,89,24,Washington
+2194,Chile,88,20,Colchagua Valley
+2195,US,88,24,California
+2196,US,88,25,California
+2197,US,88,30,California
+2198,Italy,88,50,Veneto
+2199,France,88,18,Alsace
+2200,US,88,62,California
+2201,US,88,85,California
+2202,US,88,32,California
+2203,US,88,10,Washington
+2204,US,88,10,Washington
+2205,Chile,88,20,Aconcagua Costa
+2206,US,88,48,California
+2207,France,88,19,Alsace
+2208,US,88,75,California
+2209,US,88,32,California
+2210,US,88,40,California
+2211,US,88,,California
+2212,France,88,23,Alsace
+2213,Italy,88,53,Veneto
+2214,France,88,,Burgundy
+2215,US,88,30,California
+2216,New Zealand,88,17,Marlborough
+2217,France,88,21,Alsace
+2218,Chile,88,20,Maule Valley
+2219,Chile,88,17,Maipo Valley
+2220,US,88,24,California
+2221,US,88,14,California
+2222,US,88,12,Washington
+2223,US,88,15,New York
+2224,Italy,94,92,Tuscany
+2225,Italy,94,85,Tuscany
+2226,Italy,94,90,Tuscany
+2227,France,94,85,Burgundy
+2228,Italy,94,70,Tuscany
+2229,US,94,36,California
+2230,Italy,94,40,Tuscany
+2231,US,94,64,California
+2232,Italy,94,120,Tuscany
+2233,Italy,94,73,Tuscany
+2234,Italy,94,65,Tuscany
+2235,US,94,55,California
+2236,Italy,94,45,Tuscany
+2237,Italy,94,,Tuscany
+2238,US,94,46,California
+2239,Italy,94,106,Tuscany
+2240,Italy,94,72,Tuscany
+2241,US,94,60,California
+2242,US,94,40,California
+2243,Italy,94,75,Tuscany
+2244,France,94,225,Burgundy
+2245,France,94,260,Burgundy
+2246,US,94,40,California
+2247,Italy,94,55,Tuscany
+2248,Italy,94,65,Tuscany
+2249,Italy,94,150,Tuscany
+2250,US,94,50,California
+2251,US,87,22,California
+2252,US,87,65,California
+2253,US,87,20,California
+2254,Argentina,87,19,Mendoza Province
+2255,US,87,25,California
+2256,Australia,87,16,South Australia
+2257,Italy,87,26,Piedmont
+2258,France,87,,Bordeaux
+2259,France,87,,Bordeaux
+2260,Italy,87,16,Piedmont
+2261,France,87,,Bordeaux
+2262,Italy,87,40,Lombardy
+2263,Italy,87,26,Lombardy
+2264,France,87,,Bordeaux
+2265,Austria,87,13,Niederösterreich
+2266,US,87,20,California
+2267,US,87,40,California
+2268,US,87,30,California
+2269,US,87,35,California
+2270,US,87,30,California
+2271,US,87,15,California
+2272,Czech Republic,85,25,Moravia
+2273,Portugal,85,11,Vinho Verde
+2274,US,85,18,California
+2275,Italy,85,20,Tuscany
+2276,Italy,85,12,Tuscany
+2277,Argentina,85,29,Mendoza Province
+2278,US,85,20,California
+2279,France,85,17,Alsace
+2280,US,85,17,California
+2281,US,85,20,Oregon
+2282,Italy,85,15,Tuscany
+2283,US,85,15,Oregon
+2284,Spain,85,34,Galicia
+2285,Spain,85,25,Northern Spain
+2286,US,85,25,California
+2287,Italy,85,32,Tuscany
+2288,Czech Republic,85,18,Moravia
+2289,US,84,20,California
+2290,US,84,16,California
+2291,Argentina,84,17,Mendoza Province
+2292,Slovenia,84,20,Slovenia
+2293,Italy,90,32,Tuscany
+2294,Germany,90,23,Pfalz
+2295,Italy,90,66,Tuscany
+2296,Italy,90,28,Tuscany
+2297,US,90,33,California
+2298,US,90,40,Washington
+2299,Germany,90,47,Pfalz
+2300,Germany,90,36,Pfalz
+2301,US,90,75,California
+2302,South Africa,90,20,Stellenbosch
+2303,US,90,18,Washington
+2304,US,90,14,California
+2305,Italy,90,58,Tuscany
+2306,France,90,,Bordeaux
+2307,Italy,90,53,Tuscany
+2308,US,90,30,California
+2309,Spain,90,54,Northern Spain
+2310,Germany,90,,Pfalz
+2311,Germany,90,27,Pfalz
+2312,Australia,90,33,Western Australia
+2313,Italy,90,37,Tuscany
+2314,Italy,90,65,Tuscany
+2315,Italy,90,70,Tuscany
+2316,US,90,30,California
+2317,Italy,90,34,Tuscany
+2318,Italy,90,,Tuscany
+2319,France,85,13,Loire Valley
+2320,France,85,15,Bordeaux
+2321,France,85,25,Bordeaux
+2322,France,85,,Bordeaux
+2323,France,85,15,Bordeaux
+2324,France,85,24,France Other
+2325,US,85,12,California
+2326,US,85,10,Washington
+2327,US,85,10,California
+2328,US,85,12,California
+2329,Italy,85,20,Piedmont
+2330,US,85,16,New York
+2331,Chile,85,18,Maule Valley
+2332,France,85,14,Loire Valley
+2333,US,85,32,California
+2334,Spain,85,15,Levante
+2335,US,85,6,Washington
+2336,Chile,85,15,Maule Valley
+2337,US,85,15,California
+2338,Chile,85,13,Colchagua Valley
+2339,US,85,10,California
+2340,US,85,10,Washington
+2341,Chile,85,12,Colchagua Valley
+2342,US,85,18,New York
+2343,US,85,10,California
+2344,France,85,,Loire Valley
+2345,US,85,15,California
+2346,US,85,15,California
+2347,US,85,29,California
+2348,US,85,15,Washington
+2349,US,88,17,California
+2350,Italy,88,,Veneto
+2351,Argentina,88,19,Mendoza Province
+2352,US,88,35,Virginia
+2353,US,88,13,California
+2354,US,88,19,California
+2355,US,88,45,California
+2356,Spain,88,16,Northern Spain
+2357,US,88,15,California
+2358,US,88,29,California
+2359,France,88,35,Burgundy
+2360,France,88,35,Burgundy
+2361,France,88,40,Burgundy
+2362,Italy,88,42,Veneto
+2363,US,88,75,California
+2364,France,88,20,Southwest France
+2365,Austria,88,,Burgenland
+2366,US,88,28,Washington
+2367,US,88,35,Washington
+2368,France,88,20,Beaujolais
+2369,Italy,88,85,Veneto
+2370,US,88,11,Washington
+2371,France,88,17,Alsace
+2372,France,88,,Southwest France
+2373,Italy,88,20,Veneto
+2374,Italy,88,30,Northeastern Italy
+2375,US,88,40,Washington
+2376,Italy,88,27,Veneto
+2377,US,88,13,Washington
+2378,Italy,88,47,Veneto
+2379,US,87,18,Virginia
+2380,US,87,25,America
+2381,Portugal,87,13,Vinho Verde
+2382,Portugal,87,15,Alentejano
+2383,Portugal,87,26,Douro
+2384,Portugal,87,10,Terras do Dão
+2385,US,87,30,California
+2386,US,87,25,Oregon
+2387,Argentina,87,16,Mendoza Province
+2388,France,87,,France Other
+2389,France,87,25,Loire Valley
+2390,France,87,12,Loire Valley
+2391,Portugal,87,13,Tejo
+2392,Portugal,87,15,Douro
+2393,Portugal,87,80,Port
+2394,Portugal,87,30,Douro
+2395,US,87,27,Oregon
+2396,Portugal,87,12,Beira Interior
+2397,Portugal,87,12,Douro
+2398,Portugal,87,10,Douro
+2399,US,87,28,Oregon
+2400,New Zealand,87,20,Marlborough
+2401,Italy,87,14,Sicily & Sardinia
+2402,US,87,30,California
+2403,France,87,12,France Other
+2404,US,87,18,California
+2405,New Zealand,87,18,Marlborough
+2406,US,87,27,America
+2407,France,87,10,France Other
+2408,US,85,14,California
+2409,Italy,85,13,Sicily & Sardinia
+2410,Chile,85,13,Maipo Valley
+2411,Italy,85,,Southern Italy
+2412,Italy,85,14,Sicily & Sardinia
+2413,France,85,15,Bordeaux
+2414,Italy,85,,Sicily & Sardinia
+2415,US,85,24,California
+2416,Italy,85,12,Southern Italy
+2417,US,85,20,California
+2418,Chile,85,18,Aconcagua Valley
+2419,US,85,30,California
+2420,Italy,85,40,Sicily & Sardinia
+2421,France,85,12,Beaujolais
+2422,France,85,15,Bordeaux
+2423,US,85,28,Oregon
+2424,Chile,85,16,Maipo Valley
+2425,Italy,85,,Sicily & Sardinia
+2426,Italy,85,,Sicily & Sardinia
+2427,France,85,15,Beaujolais
+2428,US,85,25,California
+2429,US,85,50,Oregon
+2430,US,85,14,Oregon
+2431,France,85,11,Beaujolais
+2432,France,85,12,Southwest France
+2433,Chile,85,14,Casablanca Valley
+2434,Italy,85,17,Southern Italy
+2435,US,85,10,California
+2436,US,85,25,Virginia
+2437,Austria,85,20,Niederösterreich
+2438,Italy,90,18,Central Italy
+2439,US,90,55,California
+2440,US,90,14,California
+2441,US,90,60,California
+2442,US,90,55,Oregon
+2443,US,90,65,California
+2444,Italy,90,30,Central Italy
+2445,Italy,90,19,Central Italy
+2446,US,90,15,California
+2447,Italy,90,40,Central Italy
+2448,Italy,90,20,Central Italy
+2449,US,90,13,New York
+2450,Italy,90,80,Tuscany
+2451,US,90,45,California
+2452,US,90,40,California
+2453,US,90,50,Washington
+2454,US,90,25,Washington
+2455,US,90,30,Washington
+2456,US,90,38,California
+2457,US,90,33,California
+2458,US,90,22,California
+2459,Italy,90,55,Tuscany
+2460,US,90,45,California
+2461,France,90,50,Bordeaux
+2462,France,90,65,Bordeaux
+2463,France,90,19,Bordeaux
+2464,France,90,,Bordeaux
+2465,France,90,42,Bordeaux
+2466,France,90,,Bordeaux
+2467,France,90,19,Bordeaux
+2468,Italy,90,75,Tuscany
+2469,Spain,90,16,Andalucia
+2470,Spain,90,45,Northern Spain
+2471,US,90,15,California
+2472,US,90,18,New York
+2473,US,90,11,California
+2474,US,90,38,California
+2475,US,90,39,California
+2476,US,90,32,California
+2477,US,88,50,California
+2478,US,88,32,California
+2479,US,88,38,California
+2480,US,88,42,California
+2481,US,88,10,Washington
+2482,US,88,25,Washington
+2483,US,88,18,Washington
+2484,US,88,9,Washington
+2485,US,88,12,Washington
+2486,Romania,88,22,Dealu Mare
+2487,Chile,88,14,Colchagua Valley
+2488,US,88,35,Washington
+2489,US,88,15,California
+2490,France,88,18,Alsace
+2491,France,88,19,Alsace
+2492,France,88,30,Burgundy
+2493,Chile,88,17,Colchagua Valley
+2494,Chile,88,17,Colchagua Valley
+2495,US,88,35,California
+2496,Italy,88,16,Veneto
+2497,Italy,88,43,Northeastern Italy
+2498,US,88,40,California
+2499,US,88,18,New York
+2500,France,88,19,Alsace
+2501,Romania,88,20,Panciu
+2502,US,88,16,Washington
+2503,US,88,75,California
+2504,Chile,88,17,Colchagua Valley
+2505,US,88,40,California
+2506,US,88,44,California
+2507,US,95,75,California
+2508,Spain,95,300,Northern Spain
+2509,Italy,95,65,Piedmont
+2510,Italy,95,60,Piedmont
+2511,Italy,95,96,Piedmont
+2512,Italy,95,59,Piedmont
+2513,US,95,32,Oregon
+2514,Italy,94,60,Piedmont
+2515,US,94,43,California
+2516,Italy,94,42,Piedmont
+2517,Australia,94,225,South Australia
+2518,Italy,94,48,Piedmont
+2519,Italy,94,70,Piedmont
+2520,Italy,94,80,Piedmont
+2521,Italy,94,,Piedmont
+2522,Italy,94,46,Piedmont
+2523,Italy,94,80,Piedmont
+2524,Italy,94,64,Piedmont
+2525,Italy,94,75,Piedmont
+2526,Italy,89,18,Northeastern Italy
+2527,US,89,28,California
+2528,Austria,89,10,Niederösterreich
+2529,Austria,89,25,Niederösterreich
+2530,US,89,70,California
+2531,Spain,89,20,Northern Spain
+2532,New Zealand,89,45,Central Otago
+2533,US,89,14,California
+2534,Spain,89,25,Northern Spain
+2535,Austria,89,14,Burgenland
+2536,US,89,29,California
+2537,Italy,89,20,Northeastern Italy
+2538,France,89,25,France Other
+2539,US,89,22,California
+2540,Italy,89,28,Central Italy
+2541,France,89,20,France Other
+2542,US,89,24,California
+2543,France,89,19,Provence
+2544,US,89,28,California
+2545,US,89,16,New York
+2546,New Zealand,89,14,Marlborough
+2547,Austria,89,13,Niederösterreich
+2548,Spain,89,15,Galicia
+2549,Spain,89,30,Northern Spain
+2550,US,89,35,California
+2551,Argentina,89,20,Mendoza Province
+2552,US,89,17,California
+2553,US,89,24,California
+2554,US,89,55,California
+2555,US,89,45,California
+2556,US,89,45,California
+2557,US,89,24,California
+2558,US,89,25,California
+2559,US,89,65,California
+2560,New Zealand,89,19,Marlborough
+2561,US,89,28,California
+2562,Italy,89,27,Sicily & Sardinia
+2563,US,89,25,California
+2564,US,89,20,California
+2565,Austria,89,21,Burgenland
+2566,US,89,55,Washington
+2567,US,89,34,Washington
+2568,US,89,30,Washington
+2569,US,89,29,Washington
+2570,Italy,89,45,Sicily & Sardinia
+2571,US,89,30,Washington
+2572,US,89,24,Washington
+2573,Italy,89,20,Southern Italy
+2574,US,89,30,Washington
+2575,US,89,32,California
+2576,US,89,35,Washington
+2577,US,89,33,Washington
+2578,US,89,45,Washington
+2579,US,89,45,Washington
+2580,US,89,35,Washington
+2581,US,89,32,Washington
+2582,US,89,50,Washington
+2583,US,89,45,California
+2584,France,89,20,Bordeaux
+2585,France,90,20,Bordeaux
+2586,Austria,90,,Wachau
+2587,Australia,90,35,Western Australia
+2588,Austria,90,,Niederösterreich
+2589,Germany,90,42,Pfalz
+2590,US,90,35,Washington
+2591,Italy,90,92,Piedmont
+2592,Italy,90,82,Piedmont
+2593,US,90,25,Washington
+2594,Australia,90,20,Western Australia
+2595,Austria,90,,Kamptal
+2596,Israel,90,39,Galilee
+2597,Germany,90,29,Mosel
+2598,Australia,90,20,Western Australia
+2599,Germany,90,25,Rheinhessen
+2600,Australia,90,30,Western Australia
+2601,US,90,27,California
+2602,US,90,17,California
+2603,Chile,90,40,Colchagua Valley
+2604,US,90,42,California
+2605,US,90,52,California
+2606,Chile,90,23,Maipo Valley
+2607,Chile,90,21,Maipo Valley
+2608,US,90,17,Washington
+2609,US,90,28,Washington
+2610,US,90,24,California
+2611,Australia,90,21,Western Australia
+2612,US,90,34,Washington
+2613,Germany,90,13,Mosel
+2614,US,90,11,Washington
+2615,Argentina,83,12,Other
+2616,Canada,83,12,Ontario
+2617,Australia,83,8,Australia Other
+2618,Argentina,83,6,Mendoza Province
+2619,Italy,83,18,Southern Italy
+2620,US,83,13,New Jersey
+2621,US,82,12,California
+2622,US,82,12,California
+2623,US,82,10,California
+2624,US,82,18,California
+2625,US,82,55,California
+2626,US,82,27,California
+2627,US,82,13,California
+2628,US,82,13,Oregon
+2629,US,82,24,California
+2630,US,82,14,California
+2631,Australia,90,20,South Australia
+2632,Italy,90,57,Tuscany
+2633,Portugal,90,18,Dão
+2634,Italy,90,,Tuscany
+2635,France,90,,Bordeaux
+2636,France,90,,Bordeaux
+2637,France,90,20,Bordeaux
+2638,France,90,20,Bordeaux
+2639,US,90,24,California
+2640,Australia,90,22,Tasmania
+2641,Chile,90,30,Maipo Valley
+2642,Australia,89,13,South Australia
+2643,Italy,89,49,Tuscany
+2644,US,89,44,California
+2645,US,89,12,California
+2646,Italy,89,,Tuscany
+2647,US,89,18,New York
+2648,US,89,28,Washington
+2649,US,89,50,Washington
+2650,US,89,24,Washington
+2651,Portugal,89,50,Beiras
+2652,Portugal,89,23,Tejo
+2653,Portugal,89,18,Douro
+2654,Italy,89,,Tuscany
+2655,France,89,40,Bordeaux
+2656,France,89,70,Bordeaux
+2657,France,89,38,Bordeaux
+2658,France,89,45,Bordeaux
+2659,Italy,89,,Tuscany
+2660,Italy,89,,Tuscany
+2661,Italy,90,150,Veneto
+2662,US,90,45,California
+2663,US,90,55,Washington
+2664,US,90,30,Washington
+2665,Austria,90,,Burgenland
+2666,Italy,90,26,Veneto
+2667,US,90,45,California
+2668,US,90,52,California
+2669,France,90,24,Languedoc-Roussillon
+2670,US,90,65,California
+2671,France,90,,Beaujolais
+2672,US,90,38,California
+2673,Argentina,90,35,Mendoza Province
+2674,France,90,24,Languedoc-Roussillon
+2675,US,90,45,Washington
+2676,US,90,45,California
+2677,US,90,15,Washington
+2678,US,90,20,Washington
+2679,France,90,,Southwest France
+2680,US,90,36,California
+2681,US,90,34,California
+2682,France,90,35,Burgundy
+2683,Spain,90,50,Northern Spain
+2684,Italy,90,125,Veneto
+2685,Austria,90,,Burgenland
+2686,US,90,30,Washington
+2687,France,90,,Burgundy
+2688,US,90,65,California
+2689,US,90,32,California
+2690,US,90,150,California
+2691,Italy,87,9,Northeastern Italy
+2692,Mexico,87,18,Valle de Guadalupe
+2693,Chile,87,10,Colchagua Valley
+2694,Chile,87,12,Maipo Valley
+2695,US,87,22,California
+2696,US,87,14,California
+2697,US,87,14,California
+2698,Chile,87,10,Maipo Valley
+2699,US,87,95,California
+2700,US,87,25,California
+2701,US,87,45,California
+2702,Italy,87,15,Northeastern Italy
+2703,Chile,87,12,Colchagua Valley
+2704,Chile,87,9,Colchagua Valley
+2705,Chile,87,8,Rapel Valley
+2706,US,87,25,California
+2707,Chile,87,12,Aconcagua Valley
+2708,Italy,87,35,Northeastern Italy
+2709,US,87,15,California
+2710,US,87,32,California
+2711,US,87,35,California
+2712,Italy,87,16,Northeastern Italy
+2713,Chile,87,,Maipo Valley
+2714,US,87,18,California
+2715,Italy,87,10,Northeastern Italy
+2716,Italy,87,11,Veneto
+2717,Italy,87,15,Veneto
+2718,Chile,87,20,Curicó Valley
+2719,Chile,87,7,Rapel Valley
+2720,France,86,13,Alsace
+2721,France,86,10,France Other
+2722,US,86,13,California
+2723,France,86,10,Bordeaux
+2724,Spain,86,12,Northern Spain
+2725,Italy,86,11,Sicily & Sardinia
+2726,Italy,86,30,Southern Italy
+2727,US,86,29,California
+2728,France,86,10,Languedoc-Roussillon
+2729,France,86,19,Alsace
+2730,Italy,86,28,Southern Italy
+2731,US,86,12,California
+2732,Chile,86,17,Leyda Valley
+2733,US,86,70,California
+2734,Chile,86,11,Chile
+2735,US,86,8,California
+2736,Spain,86,14,Northern Spain
+2737,Chile,86,11,Central Valley
+2738,Chile,86,11,Central Valley
+2739,France,86,19,Alsace
+2740,US,86,19,California
+2741,Chile,86,23,Bío Bío Valley
+2742,US,86,23,California
+2743,Spain,86,13,Northern Spain
+2744,France,86,20,Bordeaux
+2745,France,86,15,Bordeaux
+2746,Italy,86,30,Southern Italy
+2747,Romania,86,9,Romania
+2748,Romania,86,9,Romania
+2749,Romania,86,7,Romania
+2750,US,84,11,California
+2751,France,84,15,Bordeaux
+2752,Spain,84,11,Northern Spain
+2753,Chile,84,12,Central Valley
+2754,France,84,10,Languedoc-Roussillon
+2755,France,84,11,Languedoc-Roussillon
+2756,Chile,84,25,Casablanca Valley
+2757,US,84,20,California
+2758,France,84,9,Languedoc-Roussillon
+2759,Spain,84,13,Northern Spain
+2760,Chile,84,13,Colchagua Costa
+2761,Chile,84,8,Central Valley
+2762,Chile,84,12,Central Valley
+2763,US,84,13,California
+2764,US,84,50,California
+2765,US,84,29,California
+2766,US,84,8,California
+2767,Spain,84,52,Northern Spain
+2768,France,84,11,Bordeaux
+2769,France,84,13,Bordeaux
+2770,US,84,26,California
+2771,US,84,20,California
+2772,Chile,84,15,Loncomilla Valley
+2773,Chile,83,12,Casablanca Valley
+2774,Chile,83,15,Casablanca Valley
+2775,US,83,25,California
+2776,US,83,25,California
+2777,Chile,83,10,Maipo Valley
+2778,US,83,19,California
+2779,Chile,83,16,Maule Valley
+2780,Portugal,84,5,Alentejano
+2781,US,84,32,California
+2782,Portugal,84,13,Vinho Verde
+2783,US,84,22,California
+2784,US,84,10,California
+2785,US,84,10,California
+2786,US,84,15,California
+2787,Portugal,84,,Alentejano
+2788,Portugal,84,,Portuguese Table Wine
+2789,France,84,8,France Other
+2790,US,84,25,California
+2791,US,84,25,California
+2792,Portugal,84,,Beiras
+2793,US,84,20,California
+2794,US,84,20,California
+2795,Argentina,84,10,Mendoza Province
+2796,France,84,,Languedoc-Roussillon
+2797,US,84,60,California
+2798,US,84,20,California
+2799,Portugal,84,9,Vinho Verde
+2800,US,84,10,California
+2801,US,84,24,California
+2802,France,84,12,France Other
+2803,US,84,13,California
+2804,Italy,87,,Tuscany
+2805,US,87,16,New York
+2806,Spain,87,32,Northern Spain
+2807,US,87,60,Washington
+2808,US,87,15,California
+2809,Italy,87,50,Tuscany
+2810,US,87,14,Washington
+2811,US,87,30,Washington
+2812,US,87,25,California
+2813,US,86,20,Washington
+2814,US,86,14,Washington
+2815,Italy,86,18,Tuscany
+2816,US,86,18,California
+2817,Italy,86,20,Tuscany
+2818,Spain,86,25,Galicia
+2819,US,86,35,California
+2820,Italy,86,15,Tuscany
+2821,Spain,86,13,Northern Spain
+2822,Italy,86,,Tuscany
+2823,Italy,86,,Tuscany
+2824,France,86,10,Bordeaux
+2825,US,86,12,Washington
+2826,France,86,,Bordeaux
+2827,France,86,,Bordeaux
+2828,France,86,12,Bordeaux
+2829,France,86,,Bordeaux
+2830,France,86,13,Bordeaux
+2831,France,86,12,Bordeaux
+2832,France,86,10,Bordeaux
+2833,Italy,86,13,Tuscany
+2834,US,88,24,California
+2835,Italy,88,30,Tuscany
+2836,France,88,,Beaujolais
+2837,New Zealand,88,15,Marlborough
+2838,US,88,15,Washington
+2839,Italy,88,,Tuscany
+2840,Italy,88,30,Tuscany
+2841,France,88,22,Beaujolais
+2842,France,88,20,Beaujolais
+2843,France,88,20,Beaujolais
+2844,France,88,20,Beaujolais
+2845,US,88,16,California
+2846,Italy,88,75,Tuscany
+2847,US,88,9,California
+2848,US,88,24,Washington
+2849,Italy,88,55,Tuscany
+2850,US,88,25,California
+2851,US,88,25,New York
+2852,US,88,42,California
+2853,Italy,88,20,Tuscany
+2854,Chile,88,18,Colchagua Valley
+2855,Italy,88,45,Tuscany
+2856,US,88,38,California
+2857,US,88,35,Washington
+2858,Chile,88,18,Maipo Valley
+2859,Italy,88,45,Tuscany
+2860,Italy,88,35,Tuscany
+2861,US,88,10,Idaho
+2862,Italy,88,40,Tuscany
+2863,US,88,27,California
+2864,Spain,91,55,Northern Spain
+2865,US,91,30,Oregon
+2866,Portugal,91,15,Tejo
+2867,US,91,44,California
+2868,US,91,49,California
+2869,US,91,38,California
+2870,Italy,91,37,Northeastern Italy
+2871,France,91,40,Loire Valley
+2872,Italy,91,25,Veneto
+2873,US,91,30,California
+2874,US,91,50,California
+2875,US,91,55,California
+2876,France,91,23,Loire Valley
+2877,Italy,91,34,Lombardy
+2878,US,91,60,Oregon
+2879,US,91,29,Washington
+2880,US,91,36,California
+2881,US,91,25,California
+2882,US,91,75,California
+2883,US,91,45,California
+2884,US,91,35,California
+2885,US,91,48,California
+2886,US,91,48,California
+2887,US,91,55,California
+2888,US,91,34,Washington
+2889,France,91,55,Loire Valley
+2890,France,91,30,Southwest France
+2891,France,91,24,Southwest France
+2892,Italy,91,,Lombardy
+2893,France,91,48,Southwest France
+2894,Spain,86,18,Northern Spain
+2895,France,86,30,Burgundy
+2896,US,86,15,Oregon
+2897,France,86,26,Burgundy
+2898,Italy,86,65,Veneto
+2899,Portugal,86,12,Alentejano
+2900,US,86,40,California
+2901,Spain,86,20,Northern Spain
+2902,Portugal,86,16,Minho
+2903,Italy,86,47,Lombardy
+2904,France,86,15,Alsace
+2905,France,86,18,Alsace
+2906,US,86,35,Oregon
+2907,Spain,86,15,Northern Spain
+2908,Italy,86,41,Lombardy
+2909,France,86,20,Burgundy
+2910,France,86,,Burgundy
+2911,Spain,86,30,Northern Spain
+2912,Germany,86,42,Mosel
+2913,Spain,86,15,Northern Spain
+2914,Italy,86,30,Northeastern Italy
+2915,US,86,40,California
+2916,Spain,86,21,Catalonia
+2917,US,86,29,California
+2918,Portugal,86,30,Alentejano
+2919,Italy,86,35,Veneto
+2920,Portugal,86,15,Port
+2921,Portugal,86,9,Vinho Verde
+2922,US,84,9,Missouri
+2923,US,84,40,California
+2924,Chile,84,10,Curicó Valley
+2925,Argentina,84,16,Mendoza Province
+2926,France,84,13,Burgundy
+2927,US,84,47,California
+2928,US,84,24,California
+2929,US,84,8,Texas
+2930,Chile,84,9,Rapel Valley
+2931,US,84,35,New Mexico
+2932,US,84,12,California
+2933,US,84,25,California
+2934,Argentina,84,11,Mendoza Province
+2935,Argentina,84,11,Mendoza Province
+2936,US,84,75,Nevada
+2937,US,84,16,California
+2938,US,84,18,California
+2939,US,84,23,Virginia
+2940,US,84,26,New York
+2941,US,84,13,Washington
+2942,Argentina,84,10,Mendoza Province
+2943,US,84,22,California
+2944,US,84,32,Washington
+2945,US,84,18,New York
+2946,US,84,16,New York
+2947,Argentina,83,11,Mendoza Province
+2948,US,83,26,Washington
+2949,Australia,86,14,South Australia
+2950,US,86,30,Oregon
+2951,US,86,37,Oregon
+2952,US,86,12,California
+2953,Australia,86,19,South Australia
+2954,Argentina,86,10,Mendoza Province
+2955,US,86,25,California
+2956,Australia,86,29,Western Australia
+2957,US,86,13,California
+2958,Australia,86,37,South Australia
+2959,France,86,22,Burgundy
+2960,Spain,86,25,Northern Spain
+2961,US,86,29,California
+2962,Spain,86,15,Northern Spain
+2963,Italy,86,29,Sicily & Sardinia
+2964,Argentina,85,12,Mendoza Province
+2965,Australia,85,16,South Australia
+2966,Italy,85,42,Sicily & Sardinia
+2967,US,85,75,Oregon
+2968,US,85,26,California
+2969,US,85,35,California
+2970,Spain,85,29,Central Spain
+2971,Australia,85,24,Western Australia
+2972,US,85,32,California
+2973,US,85,18,Virginia
+2974,US,85,10,California
+2975,France,91,,Bordeaux
+2976,France,91,23,Bordeaux
+2977,France,91,25,Bordeaux
+2978,France,91,,Bordeaux
+2979,France,91,37,Bordeaux
+2980,France,91,33,Alsace
+2981,Australia,91,50,South Australia
+2982,Australia,91,20,South Australia
+2983,US,91,30,California
+2984,US,91,30,California
+2985,US,91,60,California
+2986,US,91,19,California
+2987,Italy,91,30,Central Italy
+2988,Germany,91,16,Mosel
+2989,US,91,24,Oregon
+2990,US,91,32,California
+2991,US,91,48,California
+2992,Austria,91,30,Niederösterreich
+2993,Australia,91,22,South Australia
+2994,US,91,50,California
+2995,US,91,40,California
+2996,Italy,91,45,Piedmont
+2997,France,91,50,Champagne
+2998,Italy,91,66,Lombardy
+2999,France,91,22,Alsace
+3000,Germany,91,20,Mosel
+3001,Italy,91,43,Italy Other
+3002,Spain,91,55,Catalonia
+3003,Spain,91,21,Galicia
+3004,Italy,91,30,Piedmont
+3005,US,93,90,California
+3006,US,93,55,Washington
+3007,US,93,55,Washington
+3008,US,93,30,Washington
+3009,US,93,75,California
+3010,France,93,36,Languedoc-Roussillon
+3011,Italy,92,40,Tuscany
+3012,Spain,92,90,Northern Spain
+3013,US,92,34,Washington
+3014,France,92,,Alsace
+3015,Italy,92,60,Tuscany
+3016,France,92,55,Champagne
+3017,Austria,92,13,Burgenland
+3018,US,92,50,Washington
+3019,France,92,33,Alsace
+3020,US,92,49,California
+3021,Spain,92,52,Northern Spain
+3022,US,92,30,Washington
+3023,US,92,37,Washington
+3024,US,92,37,Washington
+3025,Austria,92,29,Weinviertel
+3026,US,92,33,Washington
+3027,Spain,92,100,Northern Spain
+3028,US,92,38,California
+3029,US,92,35,California
+3030,US,92,75,California
+3031,Portugal,88,17,Bucelas
+3032,Spain,88,20,Galicia
+3033,US,88,23,California
+3034,Italy,88,19,Central Italy
+3035,US,88,25,Washington
+3036,US,88,25,Washington
+3037,Italy,88,20,Central Italy
+3038,Portugal,88,15,Douro
+3039,Portugal,88,9,Lisboa
+3040,Spain,88,17,Catalonia
+3041,US,88,13,Washington
+3042,US,88,19,California
+3043,US,88,14,Washington
+3044,France,88,22,Beaujolais
+3045,Argentina,88,30,Mendoza Province
+3046,France,88,22,Beaujolais
+3047,US,88,32,Washington
+3048,US,88,20,California
+3049,Portugal,88,,Lisboa
+3050,Italy,88,22,Lombardy
+3051,Germany,88,26,Pfalz
+3052,US,88,16,California
+3053,US,88,25,Oregon
+3054,US,88,40,California
+3055,US,88,18,California
+3056,Argentina,88,15,Mendoza Province
+3057,Argentina,88,22,Mendoza Province
+3058,France,88,25,Beaujolais
+3059,US,88,27,Washington
+3060,US,88,50,Oregon
+3061,US,95,100,California
+3062,US,95,60,California
+3063,France,95,164,Burgundy
+3064,US,95,36,Washington
+3065,Italy,94,49,Sicily & Sardinia
+3066,US,94,25,Washington
+3067,US,94,45,California
+3068,France,94,190,Burgundy
+3069,France,94,205,Burgundy
+3070,US,94,80,California
+3071,France,94,145,Burgundy
+3072,France,94,89,Burgundy
+3073,US,94,60,California
+3074,US,94,75,California
+3075,US,94,75,California
+3076,US,94,45,Washington
+3077,US,94,125,California
+3078,US,94,40,Washington
+3079,US,94,36,Washington
+3080,Australia,94,105,South Australia
+3081,US,88,17,California
+3082,Italy,88,,Veneto
+3083,Italy,88,,Veneto
+3084,Italy,88,,Veneto
+3085,Italy,88,16,Veneto
+3086,US,88,11,Washington
+3087,US,88,35,California
+3088,Italy,88,22,Veneto
+3089,US,88,25,Washington
+3090,Italy,88,55,Veneto
+3091,Italy,88,35,Veneto
+3092,Australia,88,15,Victoria
+3093,Chile,88,42,Central Valley
+3094,France,88,18,Alsace
+3095,Italy,88,50,Veneto
+3096,Italy,88,45,Veneto
+3097,Italy,88,44,Veneto
+3098,Spain,88,10,Central Spain
+3099,Australia,88,26,South Australia
+3100,US,88,35,California
+3101,US,88,145,California
+3102,Chile,88,40,Peumo
+3103,Chile,88,24,Casablanca Valley
+3104,Chile,88,13,Colchagua Valley
+3105,Italy,88,,Veneto
+3106,Italy,88,,Veneto
+3107,France,88,30,Alsace
+3108,Italy,88,,Veneto
+3109,France,88,,Alsace
+3110,Chile,88,49,Colchagua Valley
+3111,France,84,25,Bordeaux
+3112,France,84,15,Bordeaux
+3113,US,84,35,California
+3114,US,84,52,California
+3115,US,84,11,California
+3116,US,84,32,California
+3117,US,84,38,Oregon
+3118,US,84,13,California
+3119,US,84,18,California
+3120,Argentina,84,22,Mendoza Province
+3121,Italy,84,18,Central Italy
+3122,France,84,13,Bordeaux
+3123,US,84,10,California
+3124,US,84,28,California
+3125,US,84,15,Oregon
+3126,US,84,35,Oregon
+3127,US,84,12,California
+3128,US,84,10,California
+3129,US,83,32,California
+3130,US,83,8,California
+3131,,83,,
+3132,Spain,83,11,Northern Spain
+3133,France,83,,Bordeaux
+3134,France,83,,Bordeaux
+3135,Australia,89,17,Western Australia
+3136,Argentina,89,20,Mendoza Province
+3137,Austria,89,25,Südsteiermark
+3138,Austria,89,25,Kamptal
+3139,Austria,89,18,Kamptal
+3140,US,89,44,California
+3141,US,89,28,Washington
+3142,US,89,30,California
+3143,US,89,25,Washington
+3144,France,89,41,Burgundy
+3145,US,89,30,Washington
+3146,Austria,89,23,Niederösterreich
+3147,US,89,22,Washington
+3148,Argentina,89,12,Other
+3149,Argentina,89,20,Mendoza Province
+3150,US,89,22,California
+3151,Austria,89,60,Kamptal
+3152,US,89,50,California
+3153,US,89,30,Washington
+3154,Spain,89,22,Northern Spain
+3155,US,86,11,California
+3156,New Zealand,86,12,Marlborough
+3157,Argentina,86,11,Mendoza Province
+3158,Argentina,86,17,Other
+3159,Argentina,86,30,Mendoza Province
+3160,France,86,,Alsace
+3161,Italy,86,18,Veneto
+3162,Italy,86,16,Veneto
+3163,France,86,,Alsace
+3164,US,86,85,California
+3165,Argentina,86,20,Mendoza Province
+3166,Italy,86,,Veneto
+3167,Italy,86,5,Veneto
+3168,Italy,86,19,Veneto
+3169,Italy,86,15,Veneto
+3170,Italy,86,,Veneto
+3171,Italy,86,,Veneto
+3172,Italy,86,16,Veneto
+3173,US,86,20,Oregon
+3174,US,86,42,California
+3175,US,86,14,California
+3176,France,86,28,Alsace
+3177,France,86,35,Alsace
+3178,US,86,40,California
+3179,Argentina,86,11,Mendoza Province
+3180,France,90,22,Beaujolais
+3181,France,90,20,Beaujolais
+3182,France,90,20,Beaujolais
+3183,France,90,22,Beaujolais
+3184,US,90,38,California
+3185,Italy,90,45,Tuscany
+3186,US,90,42,California
+3187,Austria,90,19,Südsteiermark
+3188,US,90,65,Washington
+3189,US,90,12,California
+3190,US,90,38,California
+3191,France,90,23,Beaujolais
+3192,US,90,28,New York
+3193,France,90,90,Rhône Valley
+3194,US,90,50,California
+3195,France,90,15,Rhône Valley
+3196,Italy,90,,Tuscany
+3197,US,90,22,California
+3198,Austria,90,30,Kamptal
+3199,Austria,90,25,Thermenregion
+3200,France,90,21,Beaujolais
+3201,Italy,90,400,Tuscany
+3202,Austria,90,,Kremstal
+3203,US,90,20,Washington
+3204,US,90,15,Washington
+3205,US,90,15,California
+3206,US,90,55,California
+3207,Italy,90,60,Tuscany
+3208,US,90,36,California
+3209,US,90,22,California
+3210,Spain,88,45,Northern Spain
+3211,Spain,88,13,Catalonia
+3212,US,88,32,Washington
+3213,Spain,88,12,Catalonia
+3214,Italy,88,38,Northeastern Italy
+3215,US,88,21,California
+3216,Spain,88,40,Catalonia
+3217,Italy,88,,Central Italy
+3218,France,88,60,Bordeaux
+3219,France,88,20,Provence
+3220,France,88,,Bordeaux
+3221,US,88,17,California
+3222,US,88,35,California
+3223,US,88,28,California
+3224,Spain,88,75,Northern Spain
+3225,US,88,35,California
+3226,Italy,88,19,Central Italy
+3227,US,88,27,Oregon
+3228,US,88,60,California
+3229,Italy,88,21,Central Italy
+3230,US,88,35,California
+3231,Spain,88,17,Galicia
+3232,US,88,35,Oregon
+3233,US,88,35,California
+3234,Austria,88,20,Thermenregion
+3235,US,88,70,California
+3236,Chile,88,,San Antonio
+3237,Spain,88,16,Northern Spain
+3238,US,88,19,California
+3239,Italy,88,40,Central Italy
+3240,US,86,15,California
+3241,US,86,9,Washington
+3242,US,86,30,Washington
+3243,Italy,86,23,Tuscany
+3244,US,86,55,California
+3245,US,86,20,Washington
+3246,France,86,56,Champagne
+3247,US,86,18,California
+3248,Italy,86,18,Tuscany
+3249,US,86,35,California
+3250,US,86,22,California
+3251,France,86,,Bordeaux
+3252,France,86,,Bordeaux
+3253,Italy,86,31,Tuscany
+3254,US,86,55,California
+3255,Italy,86,13,Tuscany
+3256,US,86,30,California
+3257,US,86,35,Washington
+3258,US,86,30,Washington
+3259,US,86,30,California
+3260,Spain,86,15,Northern Spain
+3261,Austria,86,12,Carnuntum
+3262,US,86,40,Washington
+3263,New Zealand,86,15,Marlborough
+3264,France,86,,Champagne
+3265,France,86,11,Bordeaux
+3266,Spain,86,15,Northern Spain
+3267,Italy,86,45,Tuscany
+3268,France,86,14,Bordeaux
+3269,US,86,25,California
+3270,France,87,50,Southwest France
+3271,Portugal,87,10,Bucelas
+3272,Italy,87,18,Sicily & Sardinia
+3273,Portugal,87,10,Estremadura
+3274,Italy,87,28,Sicily & Sardinia
+3275,Italy,87,19,Sicily & Sardinia
+3276,US,87,18,California
+3277,Australia,87,18,South Australia
+3278,Portugal,87,14,Alentejo
+3279,US,87,38,California
+3280,US,87,42,California
+3281,Argentina,87,15,Mendoza Province
+3282,Italy,87,10,Southern Italy
+3283,Italy,87,24,Southern Italy
+3284,Argentina,87,46,Mendoza Province
+3285,US,87,32,Washington
+3286,US,87,23,Washington
+3287,Italy,87,21,Sicily & Sardinia
+3288,Australia,87,24,South Australia
+3289,US,87,35,Washington
+3290,Italy,87,18,Southern Italy
+3291,US,87,17,California
+3292,US,87,28,California
+3293,US,87,18,California
+3294,Portugal,87,30,Alentejano
+3295,US,87,34,California
+3296,US,87,55,California
+3297,Portugal,87,11,Estremadura
+3298,Portugal,87,,Alentejano
+3299,Spain,87,42,Levante
+3300,South Africa,87,13,Coastal Region
+3301,US,87,20,California
+3302,Spain,87,15,Catalonia
+3303,Italy,87,19,Veneto
+3304,US,87,22,California
+3305,US,87,80,California
+3306,US,87,27,California
+3307,Italy,87,22,Veneto
+3308,Portugal,87,,Alentejo
+3309,Italy,87,37,Veneto
+3310,Italy,87,16,Veneto
+3311,US,87,32,California
+3312,Spain,87,15,Catalonia
+3313,US,87,40,California
+3314,Israel,87,11,Galilee
+3315,Italy,87,,Tuscany
+3316,US,87,25,Washington
+3317,US,87,27,California
+3318,Spain,87,13,Catalonia
+3319,Italy,87,19,Tuscany
+3320,Israel,87,20,Judean Hills
+3321,Spain,87,45,Northern Spain
+3322,New Zealand,87,20,Canterbury
+3323,Italy,87,,Tuscany
+3324,France,87,20,Bordeaux
+3325,New Zealand,87,17,Marlborough
+3326,US,87,47,California
+3327,Italy,87,,Tuscany
+3328,US,87,18,California
+3329,Spain,87,9,Northern Spain
+3330,Italy,87,16,Tuscany
+3331,France,84,29,Burgundy
+3332,US,84,24,California
+3333,France,84,23,Burgundy
+3334,US,84,16,New York
+3335,France,84,28,Burgundy
+3336,US,84,13,New York
+3337,Italy,84,35,Sicily & Sardinia
+3338,US,84,14,New York
+3339,US,84,10,California
+3340,France,84,13,Rhône Valley
+3341,Spain,84,15,Galicia
+3342,France,84,29,Burgundy
+3343,Turkey,84,15,Thrace
+3344,US,84,17,New York
+3345,France,84,,Burgundy
+3346,Spain,84,9,Northern Spain
+3347,France,84,40,Burgundy
+3348,France,84,30,Burgundy
+3349,France,84,,Burgundy
+3350,US,84,50,California
+3351,US,84,14,New York
+3352,France,84,20,Burgundy
+3353,France,84,20,Burgundy
+3354,France,84,,Burgundy
+3355,US,84,18,New York
+3356,US,84,44,California
+3357,US,84,30,New York
+3358,Spain,84,15,Northern Spain
+3359,Spain,92,50,Northern Spain
+3360,Germany,92,31,Rheingau
+3361,US,92,69,California
+3362,US,92,260,California
+3363,Australia,92,18,South Australia
+3364,US,92,45,California
+3365,Portugal,92,48,Douro
+3366,US,92,38,California
+3367,US,92,18,California
+3368,US,92,41,Oregon
+3369,US,92,65,California
+3370,US,92,16,California
+3371,US,92,75,Oregon
+3372,US,92,25,Oregon
+3373,US,92,38,California
+3374,France,92,22,Beaujolais
+3375,US,92,50,Washington
+3376,US,92,45,California
+3377,US,92,65,Washington
+3378,Portugal,92,35,Douro
+3379,US,92,35,Washington
+3380,US,92,20,Oregon
+3381,Germany,92,33,Mosel
+3382,Germany,92,92,Mosel
+3383,US,92,42,California
+3384,US,92,25,Oregon
+3385,Spain,92,28,Northern Spain
+3386,US,92,48,Washington
+3387,Portugal,92,60,Douro
+3388,Portugal,92,31,Douro
+3389,US,84,25,Michigan
+3390,Spain,84,9,Spain Other
+3391,Argentina,84,11,Other
+3392,Spain,84,14,Catalonia
+3393,US,84,24,California
+3394,US,84,20,California
+3395,US,84,36,California
+3396,Argentina,84,20,Mendoza Province
+3397,US,84,13,California
+3398,US,84,32,California
+3399,Argentina,84,15,Mendoza Province
+3400,Portugal,84,8,Alentejano
+3401,Portugal,84,13,Tejo
+3402,Portugal,84,10,Tejo
+3403,US,84,40,Oregon
+3404,US,84,32,Michigan
+3405,US,84,18,Michigan
+3406,Portugal,84,25,Tejo
+3407,Portugal,84,12,Vinho Verde
+3408,Spain,83,11,Central Spain
+3409,US,83,40,California
+3410,Spain,83,60,Galicia
+3411,Portugal,83,9,Alentejo
+3412,US,83,55,California
+3413,Portugal,83,8,Lisboa
+3414,Italy,83,16,Northeastern Italy
+3415,US,83,9,California
+3416,Spain,83,11,Northern Spain
+3417,US,83,24,California
+3418,US,83,25,California
+3419,US,86,40,California
+3420,Portugal,86,15,Douro
+3421,Portugal,86,,Vinho Verde
+3422,Chile,86,12,Maule Valley
+3423,US,86,32,California
+3424,US,86,26,California
+3425,France,86,20,Loire Valley
+3426,Portugal,86,12,Alentejano
+3427,Portugal,86,11,Douro
+3428,US,86,39,Oregon
+3429,US,86,35,California
+3430,US,86,26,California
+3431,France,88,25,Beaujolais
+3432,US,88,27,Washington
+3433,US,88,50,Oregon
+3434,Spain,88,24,Levante
+3435,US,88,28,California
+3436,US,88,28,Washington
+3437,US,88,22,California
+3438,US,88,55,California
+3439,Spain,88,10,Northern Spain
+3440,Portugal,88,,Dão
+3441,US,88,72,California
+3442,Portugal,88,20,Douro
+3443,Portugal,88,39,Douro
+3444,Portugal,88,19,Douro
+3445,US,88,60,California
+3446,US,88,30,Oregon
+3447,Italy,88,70,Piedmont
+3448,Italy,88,31,Piedmont
+3449,US,88,16,California
+3450,US,88,10,California
+3451,Australia,88,15,South Australia
+3452,Argentina,88,12,Mendoza Province
+3453,US,88,14,California
+3454,Australia,88,21,South Australia
+3455,US,88,19,California
+3456,Argentina,88,20,Mendoza Province
+3457,Argentina,88,20,Mendoza Province
+3458,US,88,15,California
+3459,Australia,88,21,South Australia
+3460,US,88,17,California
+3461,US,88,39,Oregon
+3462,Greece,88,24,Drama
+3463,Italy,88,27,Veneto
+3464,France,88,10,Rhône Valley
+3465,Italy,88,28,Lombardy
+3466,US,88,14,California
+3467,Portugal,88,30,Alentejano
+3468,US,88,48,California
+3469,US,88,48,California
+3470,Italy,88,29,Piedmont
+3471,Spain,88,60,Northern Spain
+3472,France,88,15,Rhône Valley
+3473,Portugal,88,10,Douro
+3474,Israel,88,25,Ella Valley
+3475,US,88,40,Oregon
+3476,France,88,,Bordeaux
+3477,France,88,,Bordeaux
+3478,France,88,17,Bordeaux
+3479,France,88,35,Bordeaux
+3480,France,88,67,Bordeaux
+3481,Portugal,88,28,Douro
+3482,France,87,18,Alsace
+3483,France,87,13,Alsace
+3484,US,87,13,New York
+3485,US,87,40,Oregon
+3486,France,87,30,Alsace
+3487,US,87,19,New York
+3488,Italy,87,20,Veneto
+3489,US,87,21,California
+3490,Italy,87,25,Veneto
+3491,US,87,20,California
+3492,Chile,87,12,Cachapoal Valley
+3493,US,87,33,New York
+3494,Italy,87,25,Veneto
+3495,Germany,87,42,Mosel
+3496,Chile,87,11,Maipo Valley
+3497,France,87,,Alsace
+3498,Italy,87,65,Veneto
+3499,US,87,16,New York
+3500,US,88,14,California
+3501,France,88,35,Champagne
+3502,US,88,13,Washington
+3503,US,88,12,California
+3504,US,88,55,California
+3505,US,88,30,Washington
+3506,US,88,40,California
+3507,US,88,18,California
+3508,US,88,19,Oregon
+3509,Italy,88,22,Tuscany
+3510,Italy,88,,Southern Italy
+3511,US,88,39,Oregon
+3512,Italy,88,18,Tuscany
+3513,US,88,48,California
+3514,US,88,59,California
+3515,US,88,24,Washington
+3516,France,88,24,Champagne
+3517,US,88,38,California
+3518,Spain,88,18,Galicia
+3519,France,88,55,Champagne
+3520,US,88,45,California
+3521,US,88,62,California
+3522,US,88,22,California
+3523,Italy,88,27,Central Italy
+3524,France,88,55,Champagne
+3525,France,88,45,Champagne
+3526,Italy,88,26,Southern Italy
+3527,Italy,88,22,Southern Italy
+3528,US,88,10,California
+3529,Germany,88,12,Rheinhessen
+3530,Italy,92,92,Piedmont
+3531,Austria,92,,Niederösterreich
+3532,Australia,92,38,Western Australia
+3533,US,92,18,Washington
+3534,Australia,92,65,South Australia
+3535,US,92,40,California
+3536,Austria,92,25,Carnuntum
+3537,France,92,39,Bordeaux
+3538,Austria,92,30,Wachau
+3539,Italy,92,120,Piedmont
+3540,Italy,92,30,Piedmont
+3541,Italy,92,50,Piedmont
+3542,US,92,55,Washington
+3543,US,92,32,Washington
+3544,Italy,92,70,Piedmont
+3545,US,92,45,California
+3546,US,92,56,California
+3547,Australia,92,40,Western Australia
+3548,Italy,92,44,Piedmont
+3549,US,92,36,California
+3550,Austria,92,,Südoststeiermark
+3551,US,92,17,Washington
+3552,Germany,92,30,Mosel
+3553,US,92,44,California
+3554,Australia,92,50,South Australia
+3555,Austria,92,,Kamptal
+3556,US,92,30,Washington
+3557,Austria,92,38,Burgenland
+3558,US,92,40,Washington
+3559,France,89,30,Loire Valley
+3560,Hungary,89,16,Tokaji
+3561,US,89,25,Oregon
+3562,US,89,32,California
+3563,Italy,89,17,Sicily & Sardinia
+3564,Italy,89,15,Sicily & Sardinia
+3565,Portugal,89,20,Port
+3566,France,89,20,Loire Valley
+3567,France,89,20,Loire Valley
+3568,Portugal,89,,Alentejano
+3569,Germany,89,12,Mosel
+3570,Italy,89,20,Sicily & Sardinia
+3571,Argentina,89,20,Mendoza Province
+3572,US,89,40,Oregon
+3573,Argentina,89,15,Mendoza Province
+3574,Portugal,89,13,Dão
+3575,France,89,23,Loire Valley
+3576,Luxembourg,89,16,Moselle Luxembourgeoise
+3577,US,89,60,California
+3578,US,89,33,Oregon
+3579,Argentina,89,25,Other
+3580,US,89,30,Oregon
+3581,US,89,20,California
+3582,US,89,55,Oregon
+3583,Germany,89,19,Mosel
+3584,US,89,28,Virginia
+3585,Portugal,89,26,Douro
+3586,Italy,89,19,Sicily & Sardinia
+3587,France,89,29,Loire Valley
+3588,Israel,89,18,Galilee
+3589,Italy,86,30,Tuscany
+3590,France,86,13,Languedoc-Roussillon
+3591,France,86,50,Bordeaux
+3592,France,86,30,Bordeaux
+3593,US,86,35,California
+3594,Australia,86,13,Australia Other
+3595,Australia,86,13,Australia Other
+3596,US,86,12,Washington
+3597,France,86,15,Bordeaux
+3598,Australia,86,20,South Australia
+3599,US,86,30,California
+3600,US,86,40,New York
+3601,US,86,28,California
+3602,France,86,17,Bordeaux
+3603,France,86,22,Languedoc-Roussillon
+3604,US,86,33,Washington
+3605,Italy,86,,Tuscany
+3606,Portugal,86,13,Douro
+3607,US,86,28,California
+3608,US,86,13,California
+3609,US,86,20,Washington
+3610,Chile,86,14,Colchagua Valley
+3611,US,86,22,California
+3612,Portugal,86,20,Tejo
+3613,Chile,86,12,Central Valley
+3614,Spain,86,15,Northern Spain
+3615,France,86,20,Languedoc-Roussillon
+3616,Portugal,86,,Alentejano
+3617,US,86,17,New York
+3618,US,86,35,California
+3619,Chile,82,15,Maipo Valley
+3620,Chile,82,13,Central Valley
+3621,Portugal,82,24,Minho
+3622,US,82,20,California
+3623,US,82,18,California
+3624,US,82,19,California
+3625,US,82,42,California
+3626,US,82,50,California
+3627,Chile,82,20,Colchagua Valley
+3628,US,82,20,California
+3629,US,82,22,Oregon
+3630,Chile,82,20,Leyda Valley
+3631,Chile,82,10,Central Valley
+3632,US,82,18,California
+3633,US,82,15,California
+3634,US,81,11,California
+3635,Chile,81,14,Maipo Valley
+3636,US,81,37,California
+3637,Chile,81,12,Maule Valley
+3638,US,81,16,Oregon
+3639,Chile,81,10,Central Valley
+3640,Portugal,80,8,Vinho Verde
+3641,Chile,80,15,Maule Valley
+3642,France,97,,Bordeaux
+3643,France,96,,Bordeaux
+3644,France,96,170,Bordeaux
+3645,Italy,93,52,Central Italy
+3646,Austria,93,67,Wachau
+3647,Austria,93,56,Wachau
+3648,US,93,50,California
+3649,US,93,40,Washington
+3650,US,93,30,California
+3651,US,93,45,California
+3652,Austria,93,90,Wachau
+3653,US,93,40,California
+3654,US,92,60,Washington
+3655,US,92,40,California
+3656,Austria,92,85,Wachau
+3657,Argentina,92,64,Mendoza Province
+3658,US,92,75,California
+3659,US,92,40,Washington
+3660,US,92,60,California
+3661,US,92,50,Washington
+3662,US,92,28,California
+3663,US,84,20,California
+3664,US,84,24,Washington
+3665,US,84,25,California
+3666,Chile,84,14,Curicó Valley
+3667,New Zealand,84,10,Marlborough
+3668,US,84,20,California
+3669,US,84,15,California
+3670,US,84,30,California
+3671,France,84,14,Provence
+3672,US,84,8,California
+3673,Chile,84,10,Maipo Valley
+3674,US,84,10,California
+3675,Italy,84,11,Piedmont
+3676,France,84,,Southwest France
+3677,US,84,18,California
+3678,US,84,9,California
+3679,Australia,84,9,Australia Other
+3680,South Africa,84,28,Walker Bay
+3681,Chile,84,9,Colchagua Valley
+3682,South Africa,84,11,Western Cape
+3683,South Africa,84,19,Western Cape
+3684,South Africa,84,10,Robertson
+3685,New Zealand,84,22,Marlborough
+3686,US,91,40,California
+3687,France,91,90,Champagne
+3688,US,91,72,California
+3689,Portugal,91,56,Port
+3690,France,91,35,Burgundy
+3691,France,91,65,Burgundy
+3692,Spain,91,27,Northern Spain
+3693,France,91,26,Burgundy
+3694,Italy,91,30,Veneto
+3695,Italy,91,75,Lombardy
+3696,US,91,34,California
+3697,Spain,91,52,Northern Spain
+3698,France,91,50,Champagne
+3699,France,91,90,Champagne
+3700,Italy,91,65,Veneto
+3701,Argentina,91,45,Mendoza Province
+3702,Germany,91,95,Mosel
+3703,Argentina,91,30,Mendoza Province
+3704,US,91,55,California
+3705,Italy,91,45,Lombardy
+3706,Germany,91,42,Mosel
+3707,US,91,40,Oregon
+3708,US,91,50,Oregon
+3709,Spain,91,25,Northern Spain
+3710,Portugal,91,27,Port
+3711,Argentina,91,25,Mendoza Province
+3712,US,88,20,California
+3713,Italy,88,19,Southern Italy
+3714,Italy,88,20,Southern Italy
+3715,Germany,88,55,Württemberg
+3716,Germany,88,38,Baden
+3717,Italy,88,22,Southern Italy
+3718,Spain,88,24,Northern Spain
+3719,US,88,35,California
+3720,Spain,88,12,Galicia
+3721,US,88,30,Washington
+3722,Portugal,88,60,Port
+3723,US,88,22,Washington
+3724,France,88,,Bordeaux
+3725,France,88,23,Bordeaux
+3726,France,88,,Bordeaux
+3727,Italy,86,22,Tuscany
+3728,Spain,86,14,Catalonia
+3729,France,86,20,Beaujolais
+3730,France,86,12,Southwest France
+3731,Chile,86,12,Central Valley
+3732,US,86,10,California
+3733,France,86,13,Languedoc-Roussillon
+3734,France,86,21,Alsace
+3735,France,86,10,Southwest France
+3736,France,86,17,Provence
+3737,Spain,86,10,Catalonia
+3738,Greece,86,23,Pangeon
+3739,Portugal,86,12,Alentejano
+3740,Italy,86,16,Tuscany
+3741,France,86,17,Beaujolais
+3742,Italy,86,18,Tuscany
+3743,Chile,86,10,Curicó Valley
+3744,Italy,86,90,Tuscany
+3745,US,86,38,California
+3746,US,86,20,California
+3747,Chile,86,8,Central Valley
+3748,US,86,7,California
+3749,France,86,13,Southwest France
+3750,US,86,14,California
+3751,France,86,19,Beaujolais
+3752,France,86,12,Languedoc-Roussillon
+3753,France,86,20,Alsace
+3754,Spain,86,12,Northern Spain
+3755,Chile,86,25,Elqui Valley
+3756,Italy,86,15,Tuscany
+3757,US,86,17,California
+3758,France,86,20,Provence
+3759,Argentina,86,15,Mendoza Province
+3760,Argentina,86,29,Mendoza Province
+3761,Italy,86,20,Sicily & Sardinia
+3762,US,86,15,New York
+3763,New Zealand,86,15,Wairau Valley
+3764,US,86,13,Washington
+3765,US,86,17,New York
+3766,US,86,20,California
+3767,Spain,86,9,Northern Spain
+3768,Italy,86,18,Southern Italy
+3769,Italy,86,20,Southern Italy
+3770,US,86,55,California
+3771,France,86,,Alsace
+3772,US,86,28,Virginia
+3773,US,86,49,California
+3774,US,86,24,California
+3775,US,86,54,California
+3776,Italy,86,30,Southern Italy
+3777,US,86,29,Virginia
+3778,US,86,11,Virginia
+3779,US,86,20,New York
+3780,US,86,22,New York
+3781,New Zealand,86,16,Marlborough
+3782,US,86,12,Washington
+3783,France,86,20,Alsace
+3784,US,86,14,Virginia
+3785,Italy,86,,Southern Italy
+3786,Italy,86,20,Sicily & Sardinia
+3787,US,88,40,California
+3788,US,88,28,California
+3789,Austria,88,25,Österreichischer Sekt
+3790,US,88,60,Washington
+3791,US,88,32,California
+3792,Italy,88,45,Tuscany
+3793,US,88,10,Washington
+3794,US,88,20,New York
+3795,US,88,20,Washington
+3796,Italy,88,20,Tuscany
+3797,Italy,88,15,Tuscany
+3798,Italy,88,33,Tuscany
+3799,Italy,88,35,Tuscany
+3800,US,88,17,New York
+3801,Chile,88,10,Central Valley
+3802,US,88,12,Washington
+3803,US,88,10,Washington
+3804,Italy,88,20,Tuscany
+3805,Spain,88,15,Catalonia
+3806,US,88,13,California
+3807,US,88,12,California
+3808,Spain,88,44,Northern Spain
+3809,Chile,88,12,Maule Valley
+3810,US,88,28,California
+3811,France,88,15,Southwest France
+3812,US,88,17,California
+3813,France,88,22,Beaujolais
+3814,France,88,25,Southwest France
+3815,France,88,20,Rhône Valley
+3816,France,88,17,Southwest France
+3817,Italy,93,65,Tuscany
+3818,Portugal,93,,Douro
+3819,Portugal,93,28,Lisboa
+3820,US,93,30,California
+3821,Spain,93,95,Northern Spain
+3822,US,93,52,California
+3823,France,93,,Loire Valley
+3824,France,93,84,Rhône Valley
+3825,France,93,130,Rhône Valley
+3826,Italy,93,36,Tuscany
+3827,US,93,39,California
+3828,US,93,79,California
+3829,France,93,40,Alsace
+3830,Italy,93,23,Tuscany
+3831,US,93,106,California
+3832,France,93,,Loire Valley
+3833,France,93,32,Alsace
+3834,France,93,30,Rhône Valley
+3835,Italy,93,22,Tuscany
+3836,Portugal,93,100,Douro
+3837,Italy,93,25,Tuscany
+3838,France,93,24,Alsace
+3839,US,93,32,California
+3840,US,93,59,California
+3841,Portugal,93,35,Tejo
+3842,Italy,93,20,Tuscany
+3843,Portugal,93,18,Douro
+3844,Italy,93,16,Tuscany
+3845,France,93,60,Alsace
+3846,US,93,55,California
+3847,Italy,92,42,Southern Italy
+3848,Italy,92,,Sicily & Sardinia
+3849,US,92,50,California
+3850,Germany,92,31,Mosel
+3851,US,92,100,Oregon
+3852,France,92,,Loire Valley
+3853,France,92,,Loire Valley
+3854,France,92,,Loire Valley
+3855,US,92,100,California
+3856,Chile,92,60,Maipo Valley
+3857,US,92,25,California
+3858,US,92,50,California
+3859,US,92,55,California
+3860,US,92,50,California
+3861,US,92,28,California
+3862,Italy,92,,Lombardy
+3863,France,92,28,Loire Valley
+3864,US,92,45,California
+3865,US,91,48,California
+3866,US,91,60,Oregon
+3867,Italy,91,,Southern Italy
+3868,US,91,25,California
+3869,US,91,20,California
+3870,France,91,,Loire Valley
+3871,Germany,91,84,Mosel
+3872,US,91,37,California
+3873,US,91,28,Oregon
+3874,US,91,45,Oregon
+3875,Italy,91,50,Central Italy
+3876,US,86,18,California
+3877,France,86,17,Loire Valley
+3878,US,86,36,California
+3879,US,86,18,California
+3880,Australia,86,12,South Australia
+3881,US,86,10,Washington
+3882,Portugal,86,,Port
+3883,Italy,86,,Tuscany
+3884,US,86,55,Washington
+3885,Spain,86,12,Catalonia
+3886,Australia,86,12,Victoria
+3887,Spain,86,12,Central Spain
+3888,US,86,10,Washington
+3889,US,86,23,California
+3890,Spain,86,18,Galicia
+3891,Portugal,86,12,Alentejano
+3892,US,86,36,California
+3893,US,86,18,California
+3894,France,86,,Loire Valley
+3895,Spain,86,13,Northern Spain
+3896,US,86,34,California
+3897,Spain,86,15,Levante
+3898,US,86,12,California
+3899,US,87,25,Oregon
+3900,Italy,87,24,Northeastern Italy
+3901,US,87,22,California
+3902,Italy,87,16,Northeastern Italy
+3903,Portugal,87,11,Lisboa
+3904,US,87,34,California
+3905,Italy,87,20,Northeastern Italy
+3906,France,87,21,Loire Valley
+3907,Italy,87,20,Northeastern Italy
+3908,Italy,87,,Northeastern Italy
+3909,Italy,87,22,Northeastern Italy
+3910,Italy,87,19,Northeastern Italy
+3911,Italy,87,19,Northeastern Italy
+3912,US,87,38,Oregon
+3913,France,87,22,Loire Valley
+3914,Italy,87,30,Northeastern Italy
+3915,US,87,31,California
+3916,US,87,36,California
+3917,Argentina,87,35,Mendoza Province
+3918,Italy,87,20,Northeastern Italy
+3919,Spain,87,17,Northern Spain
+3920,US,87,47,California
+3921,US,87,25,Oregon
+3922,Portugal,87,18,Tejo
+3923,US,87,30,California
+3924,Italy,87,15,Northeastern Italy
+3925,US,87,30,California
+3926,Italy,87,20,Northeastern Italy
+3927,Italy,87,,Northeastern Italy
+3928,US,87,38,California
+3929,Argentina,83,7,Mendoza Province
+3930,Argentina,83,8,Mendoza Province
+3931,US,83,10,California
+3932,US,83,38,California
+3933,Argentina,83,13,Other
+3934,Argentina,83,11,Mendoza Province
+3935,Spain,83,14,Northern Spain
+3936,US,83,11,California
+3937,US,83,20,California
+3938,Portugal,83,8,Portuguese Table Wine
+3939,US,83,13,California
+3940,Argentina,83,25,Mendoza Province
+3941,Argentina,83,10,Mendoza Province
+3942,US,83,33,California
+3943,US,83,10,California
+3944,Spain,83,12,Northern Spain
+3945,Portugal,83,14,Vinho Verde
+3946,US,83,18,California
+3947,Australia,83,15,Australia Other
+3948,Portugal,83,6,Lisboa
+3949,Australia,83,10,Australia Other
+3950,Portugal,83,5,Vinho Verde
+3951,Argentina,83,12,Mendoza Province
+3952,Australia,83,9,Australia Other
+3953,Spain,83,10,Northern Spain
+3954,Italy,90,,Tuscany
+3955,France,90,,Beaujolais
+3956,France,90,,Beaujolais
+3957,US,90,105,California
+3958,Chile,90,32,Casablanca Valley
+3959,Chile,90,24,Cachapoal Valley
+3960,US,90,18,Washington
+3961,Argentina,90,17,Mendoza Province
+3962,Austria,90,,Kamptal
+3963,France,90,140,Burgundy
+3964,France,90,95,Burgundy
+3965,US,90,195,California
+3966,US,90,24,California
+3967,US,90,15,California
+3968,Italy,90,,Tuscany
+3969,South Africa,90,47,Coastal Region
+3970,Italy,90,,Veneto
+3971,France,90,,Burgundy
+3972,France,90,25,Bordeaux
+3973,France,90,,Bordeaux
+3974,US,90,98,California
+3975,US,90,20,California
+3976,US,90,36,California
+3977,Italy,90,37,Veneto
+3978,Italy,85,20,Piedmont
+3979,New Zealand,85,16,Marlborough
+3980,US,85,9,Washington
+3981,US,85,20,California
+3982,New Zealand,85,25,Marlborough
+3983,Austria,85,48,Kamptal
+3984,Italy,85,23,Piedmont
+3985,US,85,25,California
+3986,Italy,85,26,Piedmont
+3987,Italy,85,13,Piedmont
+3988,Italy,85,15,Piedmont
+3989,Italy,85,16,Piedmont
+3990,Italy,85,21,Piedmont
+3991,US,85,30,Washington
+3992,US,85,32,California
+3993,US,85,13,California
+3994,US,85,16,California
+3995,Argentina,85,13,Other
+3996,Italy,85,19,Piedmont
+3997,US,88,20,New York
+3998,Spain,88,96,Northern Spain
+3999,US,88,18,New York
+4000,Spain,88,18,Northern Spain
+4001,US,88,19,Virginia
+4002,Argentina,88,15,Mendoza Province
+4003,US,88,33,California
+4004,France,88,20,Provence
+4005,France,88,18,Provence
+4006,Italy,88,23,Southern Italy
+4007,Croatia,88,20,Istria
+4008,US,88,25,Washington
+4009,US,88,20,New York
+4010,Italy,88,,Southern Italy
+4011,Argentina,88,14,Mendoza Province
+4012,South Africa,88,25,Stellenbosch
+4013,US,88,15,Washington
+4014,US,88,32,Washington
+4015,New Zealand,88,18,Marlborough
+4016,Spain,88,24,Catalonia
+4017,New Zealand,88,16,Hawke's Bay
+4018,Italy,88,30,Southern Italy
+4019,Croatia,88,27,Peljesac
+4020,US,88,55,California
+4021,US,88,58,California
+4022,US,88,28,Washington
+4023,Spain,88,11,Northern Spain
+4024,South Africa,88,15,Coastal Region
+4025,South Africa,88,,Stellenbosch
+4026,Italy,88,,Southern Italy
+4027,US,88,25,Washington
+4028,US,88,25,California
+4029,US,88,23,California
+4030,US,88,42,California
+4031,US,88,20,California
+4032,France,88,25,Burgundy
+4033,US,88,15,Washington
+4034,US,88,38,Washington
+4035,France,88,14,Loire Valley
+4036,France,88,32,Burgundy
+4037,France,88,35,Burgundy
+4038,France,88,20,Loire Valley
+4039,Italy,88,13,Veneto
+4040,Italy,88,15,Veneto
+4041,US,88,70,Washington
+4042,US,88,15,Washington
+4043,US,88,18,Washington
+4044,US,88,34,Washington
+4045,Argentina,88,20,Mendoza Province
+4046,Chile,88,12,Curicó Valley
+4047,US,88,18,New York
+4048,Georgia,88,12,Kakheti
+4049,New Zealand,88,25,Awatere Valley
+4050,Argentina,88,20,Mendoza Province
+4051,Uruguay,88,43,Canelones
+4052,US,88,25,Washington
+4053,Italy,88,60,Veneto
+4054,Argentina,88,27,Mendoza Province
+4055,US,88,36,Washington
+4056,US,88,22,California
+4057,US,90,25,California
+4058,US,90,13,California
+4059,US,90,17,Washington
+4060,France,90,19,France Other
+4061,US,90,25,California
+4062,US,90,28,California
+4063,US,90,45,Washington
+4064,US,90,35,New York
+4065,US,90,40,Washington
+4066,US,90,40,California
+4067,Italy,90,50,Tuscany
+4068,Italy,90,50,Piedmont
+4069,US,90,29,California
+4070,Italy,90,40,Piedmont
+4071,US,90,32,Washington
+4072,US,90,19,California
+4073,England,90,46,England
+4074,US,90,36,California
+4075,US,90,30,California
+4076,US,90,26,Washington
+4077,US,90,60,California
+4078,US,90,35,California
+4079,US,90,53,California
+4080,US,90,31,Washington
+4081,France,90,35,Loire Valley
+4082,US,90,32,California
+4083,US,90,50,California
+4084,US,90,38,California
+4085,Chile,90,40,Maipo Valley
+4086,US,90,25,Washington
+4087,US,86,55,California
+4088,Spain,86,15,Northern Spain
+4089,Italy,86,11,Northeastern Italy
+4090,Portugal,86,,Vinho Verde
+4091,Portugal,86,13,Alentejano
+4092,Portugal,86,,Tejo
+4093,Portugal,86,11,Douro
+4094,US,86,39,Oregon
+4095,US,86,35,California
+4096,US,86,26,California
+4097,Portugal,86,15,Alentejo
+4098,Chile,86,15,Casablanca Valley
+4099,Australia,86,12,South Australia
+4100,US,86,54,California
+4101,US,86,24,California
+4102,US,86,33,California
+4103,US,86,22,California
+4104,Uruguay,86,16,Canelones
+4105,US,86,30,California
+4106,US,86,25,Oregon
+4107,Portugal,86,24,Bairrada
+4108,Portugal,86,12,Douro
+4109,Chile,86,20,Colchagua Valley
+4110,US,90,88,California
+4111,US,90,35,California
+4112,US,90,62,California
+4113,US,90,28,California
+4114,Germany,90,17,Mosel
+4115,Germany,90,13,Mosel
+4116,US,90,17,California
+4117,US,90,35,California
+4118,US,90,28,California
+4119,Italy,90,,Sicily & Sardinia
+4120,Germany,90,18,Mosel
+4121,France,90,49,Champagne
+4122,France,90,60,Champagne
+4123,US,90,31,California
+4124,US,90,48,California
+4125,Italy,90,49,Piedmont
+4126,Italy,90,40,Lombardy
+4127,France,90,60,Champagne
+4128,France,90,53,Champagne
+4129,France,90,63,Champagne
+4130,US,90,48,California
+4131,France,90,27,Bordeaux
+4132,US,90,30,California
+4133,US,90,55,Oregon
+4134,Portugal,90,15,Tejo
+4135,France,90,65,Champagne
+4136,Portugal,90,60,Port
+4137,Australia,90,29,South Australia
+4138,France,90,50,Champagne
+4139,Portugal,90,60,Port
+4140,US,92,66,Oregon
+4141,France,92,80,Burgundy
+4142,France,92,35,Burgundy
+4143,US,92,58,California
+4144,Italy,92,35,Southern Italy
+4145,Portugal,92,26,Lisboa
+4146,US,92,60,California
+4147,US,92,50,Oregon
+4148,US,92,60,California
+4149,US,92,45,California
+4150,US,92,95,Washington
+4151,France,92,55,Champagne
+4152,US,92,39,Oregon
+4153,US,92,75,California
+4154,Italy,92,100,Sicily & Sardinia
+4155,France,92,48,Champagne
+4156,US,92,35,California
+4157,US,92,45,California
+4158,US,92,80,California
+4159,US,92,50,California
+4160,US,92,27,California
+4161,US,92,39,California
+4162,Portugal,92,,Douro
+4163,Italy,92,66,Southern Italy
+4164,Portugal,92,35,Dão
+4165,US,92,65,California
+4166,Italy,92,,Southern Italy
+4167,US,92,30,Oregon
+4168,US,92,42,Washington
+4169,Germany,92,210,Rheingau
+4170,US,87,58,California
+4171,US,87,26,Texas
+4172,US,87,25,Washington
+4173,US,87,35,California
+4174,US,87,42,California
+4175,US,87,15,California
+4176,US,87,38,California
+4177,US,87,14,Washington
+4178,US,87,10,Washington
+4179,US,87,10,Washington
+4180,US,87,23,Texas
+4181,US,87,14,New York
+4182,Chile,87,12,Colchagua Valley
+4183,France,87,18,Provence
+4184,France,87,60,Burgundy
+4185,Italy,87,9,Northeastern Italy
+4186,US,87,55,California
+4187,US,87,14,California
+4188,US,87,25,New York
+4189,US,87,20,New York
+4190,Italy,87,79,Veneto
+4191,US,87,19,California
+4192,Chile,87,13,Rapel Valley
+4193,US,87,23,California
+4194,US,87,32,California
+4195,US,87,25,Washington
+4196,Chile,87,25,Aconcagua Costa
+4197,France,87,19,Provence
+4198,Chile,87,17,Peumo
+4199,Chile,87,17,Marchigue
+4200,US,87,17,California
+4201,US,87,52,California
+4202,Italy,87,,Veneto
+4203,US,87,65,California
+4204,France,87,18,Burgundy
+4205,US,87,50,Washington
+4206,South Africa,87,19,Paarl
+4207,Argentina,87,12,Mendoza Province
+4208,France,87,23,Burgundy
+4209,Italy,87,14,Northeastern Italy
+4210,Spain,87,20,Northern Spain
+4211,Portugal,87,,Lisboa
+4212,Portugal,87,12,Lisboa
+4213,Portugal,87,15,Tejo
+4214,US,87,25,California
+4215,Germany,87,12,Rheinhessen
+4216,US,87,39,California
+4217,Italy,87,60,Tuscany
+4218,Portugal,87,11,Vinho Verde
+4219,Argentina,87,30,Mendoza Province
+4220,US,87,30,California
+4221,Italy,87,12,Veneto
+4222,Italy,87,50,Veneto
+4223,Argentina,87,50,Mendoza Province
+4224,US,87,20,California
+4225,Portugal,87,12,Tejo
+4226,US,87,19,California
+4227,France,87,17,Southwest France
+4228,US,87,23,California
+4229,US,87,30,California
+4230,Italy,88,30,Tuscany
+4231,Argentina,88,11,Mendoza Province
+4232,US,88,23,New York
+4233,US,88,22,Washington
+4234,US,88,32,Washington
+4235,New Zealand,88,35,Hawke's Bay
+4236,US,88,34,California
+4237,US,88,28,California
+4238,US,88,34,California
+4239,France,88,36,Burgundy
+4240,US,88,100,California
+4241,Chile,88,23,Casablanca Valley
+4242,US,88,115,California
+4243,,88,18,
+4244,US,88,29,Washington
+4245,US,88,45,California
+4246,US,88,11,California
+4247,Chile,88,16,Leyda Valley
+4248,US,88,25,California
+4249,US,88,26,California
+4250,US,88,36,Washington
+4251,US,88,50,Washington
+4252,Spain,88,13,Northern Spain
+4253,US,88,23,California
+4254,US,88,42,Washington
+4255,US,88,26,California
+4256,US,88,18,California
+4257,Argentina,88,15,Mendoza Province
+4258,Italy,85,19,Piedmont
+4259,Chile,85,17,Casablanca Valley
+4260,US,85,13,Washington
+4261,US,85,17,Washington
+4262,France,85,16,France Other
+4263,US,85,50,California
+4264,Spain,85,11,Levante
+4265,France,85,15,Bordeaux
+4266,France,85,14,Bordeaux
+4267,US,85,18,California
+4268,US,85,26,Washington
+4269,US,85,25,California
+4270,US,85,10,California
+4271,France,85,15,Rhône Valley
+4272,US,85,14,New York
+4273,Italy,85,19,Piedmont
+4274,US,85,12,California
+4275,US,85,10,Washington
+4276,US,85,11,Washington
+4277,France,85,,France Other
+4278,France,85,20,France Other
+4279,France,85,24,France Other
+4280,US,85,49,California
+4281,US,85,42,California
+4282,France,85,,Bordeaux
+4283,US,85,28,California
+4284,France,85,,Loire Valley
+4285,Spain,85,12,Catalonia
+4286,Spain,85,10,Central Spain
+4287,Spain,85,15,Levante
+4288,France,89,31,Champagne
+4289,US,89,14,California
+4290,US,89,35,California
+4291,US,89,24,California
+4292,US,89,20,California
+4293,Chile,89,25,Maule Valley
+4294,Italy,89,30,Veneto
+4295,Greece,89,20,Drama
+4296,US,89,45,Washington
+4297,Italy,89,28,Sicily & Sardinia
+4298,US,89,21,California
+4299,US,89,42,Washington
+4300,Italy,89,25,Sicily & Sardinia
+4301,US,89,16,Washington
+4302,France,89,45,Champagne
+4303,France,89,24,Bordeaux
+4304,Italy,89,,Veneto
+4305,Italy,89,43,Veneto
+4306,New Zealand,89,15,Marlborough
+4307,Italy,89,50,Veneto
+4308,US,89,45,California
+4309,US,89,30,California
+4310,Italy,89,90,Veneto
+4311,Chile,89,22,Aconcagua Valley
+4312,US,89,13,California
+4313,France,89,,Bordeaux
+4314,Spain,89,25,Northern Spain
+4315,France,89,32,Loire Valley
+4316,US,89,18,New York
+4317,Portugal,89,,Port
+4318,Portugal,89,26,Port
+4319,US,89,40,Oregon
+4320,Chile,89,18,Maipo Valley
+4321,Spain,89,17,Andalucia
+4322,Italy,89,35,Central Italy
+4323,US,89,48,California
+4324,Australia,89,25,Western Australia
+4325,France,88,,Bordeaux
+4326,US,88,19,Oregon
+4327,US,88,30,Oregon
+4328,France,88,28,Loire Valley
+4329,Spain,88,25,Andalucia
+4330,Italy,88,42,Sicily & Sardinia
+4331,Italy,88,19,Sicily & Sardinia
+4332,Australia,88,24,South Australia
+4333,Australia,88,60,Victoria
+4334,Spain,90,32,Andalucia
+4335,US,90,35,California
+4336,Spain,90,44,Northern Spain
+4337,US,90,75,California
+4338,US,90,50,California
+4339,Italy,90,130,Tuscany
+4340,US,90,19,Oregon
+4341,US,90,15,America
+4342,US,90,48,Oregon
+4343,US,90,23,California
+4344,US,90,65,California
+4345,US,90,32,Oregon
+4346,US,90,22,California
+4347,US,90,25,California
+4348,US,90,35,California
+4349,US,90,27,Oregon
+4350,US,90,38,California
+4351,US,90,48,California
+4352,Italy,90,26,Tuscany
+4353,US,90,15,California
+4354,Spain,90,60,Northern Spain
+4355,Italy,90,25,Tuscany
+4356,France,90,20,Bordeaux
+4357,France,90,25,Bordeaux
+4358,France,90,20,Bordeaux
+4359,France,90,30,Bordeaux
+4360,France,90,,Bordeaux
+4361,France,90,,Bordeaux
+4362,France,90,25,Bordeaux
+4363,Portugal,91,52,Douro
+4364,France,91,37,Burgundy
+4365,Italy,91,47,Northeastern Italy
+4366,US,91,45,California
+4367,Argentina,91,120,Other
+4368,France,91,50,Burgundy
+4369,Argentina,91,16,Mendoza Province
+4370,Italy,91,55,Northeastern Italy
+4371,France,91,60,Burgundy
+4372,France,91,20,Burgundy
+4373,France,91,75,Burgundy
+4374,US,91,16,California
+4375,US,91,45,Washington
+4376,US,91,80,California
+4377,France,91,32,Burgundy
+4378,Spain,91,85,Northern Spain
+4379,France,91,,Burgundy
+4380,US,91,30,Washington
+4381,US,91,45,Washington
+4382,France,91,69,Burgundy
+4383,France,91,69,Burgundy
+4384,France,88,22,Beaujolais
+4385,France,88,16,Burgundy
+4386,France,88,45,Burgundy
+4387,France,88,24,Burgundy
+4388,France,88,25,Burgundy
+4389,US,88,26,Washington
+4390,US,88,19,Washington
+4391,US,88,26,Washington
+4392,US,88,10,California
+4393,US,88,35,Washington
+4394,US,88,35,Washington
+4395,US,88,35,Washington
+4396,US,88,35,California
+4397,France,88,42,Burgundy
+4398,France,88,42,Burgundy
+4399,US,88,22,California
+4400,US,88,17,New York
+4401,France,88,31,Burgundy
+4402,France,88,19,Beaujolais
+4403,Italy,88,,Piedmont
+4404,France,88,28,Burgundy
+4405,US,88,22,New York
+4406,Spain,88,17,Catalonia
+4407,US,88,20,New York
+4408,US,88,32,California
+4409,France,88,47,Burgundy
+4410,US,88,26,Washington
+4411,US,88,35,Washington
+4412,US,88,15,Washington
+4413,France,88,26,Burgundy
+4414,US,89,42,California
+4415,Spain,89,38,Andalucia
+4416,Italy,89,19,Piedmont
+4417,US,89,49,Washington
+4418,US,89,52,Washington
+4419,US,89,40,Washington
+4420,Spain,89,19,Andalucia
+4421,US,89,55,California
+4422,US,89,28,California
+4423,Spain,89,19,Northern Spain
+4424,US,89,38,Washington
+4425,Italy,89,,Piedmont
+4426,US,89,25,California
+4427,US,89,49,California
+4428,Italy,89,45,Piedmont
+4429,France,89,20,Beaujolais
+4430,France,89,27,Provence
+4431,US,89,15,California
+4432,Italy,89,46,Piedmont
+4433,France,89,161,Burgundy
+4434,France,89,45,Burgundy
+4435,France,89,50,Burgundy
+4436,France,89,30,Burgundy
+4437,US,89,21,New York
+4438,US,89,26,California
+4439,France,89,40,Beaujolais
+4440,Chile,89,20,Loncomilla Valley
+4441,Italy,89,15,Central Italy
+4442,US,88,24,Washington
+4443,Italy,88,37,Piedmont
+4444,US,85,30,Oregon
+4445,Italy,85,10,Tuscany
+4446,France,85,28,Rhône Valley
+4447,Spain,85,10,Northern Spain
+4448,Italy,85,10,Tuscany
+4449,Portugal,85,,Vinho Verde
+4450,US,85,22,Oregon
+4451,US,85,10,California
+4452,France,85,13,Southwest France
+4453,France,85,,Provence
+4454,US,85,10,California
+4455,US,85,25,California
+4456,US,85,25,California
+4457,US,85,25,California
+4458,US,85,48,California
+4459,Spain,85,45,Catalonia
+4460,Spain,85,8,Spain Other
+4461,US,85,25,California
+4462,US,85,90,California
+4463,Italy,85,13,Central Italy
+4464,US,85,32,California
+4465,US,85,65,California
+4466,US,85,85,California
+4467,US,85,22,California
+4468,US,91,40,Washington
+4469,Italy,91,,Tuscany
+4470,US,91,85,Washington
+4471,US,91,32,California
+4472,US,91,46,Washington
+4473,US,91,49,California
+4474,Spain,91,35,Northern Spain
+4475,US,91,30,California
+4476,US,91,75,Washington
+4477,US,91,40,Washington
+4478,US,91,48,Washington
+4479,France,91,25,Burgundy
+4480,Italy,91,60,Veneto
+4481,France,91,24,Loire Valley
+4482,US,91,28,Washington
+4483,France,91,26,Loire Valley
+4484,France,91,64,Burgundy
+4485,US,91,42,California
+4486,US,91,32,California
+4487,US,91,75,California
+4488,US,91,,California
+4489,US,91,28,California
+4490,New Zealand,91,50,Hawke's Bay
+4491,New Zealand,91,35,Hawke's Bay
+4492,US,91,67,California
+4493,US,91,42,California
+4494,France,91,,Loire Valley
+4495,US,91,48,Washington
+4496,US,91,80,California
+4497,France,91,48,Burgundy
+4498,South Africa,89,,Coastal Region
+4499,South Africa,89,,Darling
+4500,South Africa,89,,Stellenbosch
+4501,South Africa,89,,Durbanville
+4502,US,98,155,California
+4503,Italy,97,60,Sicily & Sardinia
+4504,US,97,50,California
+4505,US,97,115,California
+4506,US,96,70,California
+4507,US,96,115,California
+4508,US,96,90,California
+4509,US,96,115,California
+4510,US,96,58,California
+4511,US,96,69,California
+4512,US,96,88,California
+4513,Italy,96,146,Piedmont
+4514,US,95,72,California
+4515,Italy,95,96,Piedmont
+4516,US,95,44,California
+4517,US,95,45,California
+4518,US,95,47,California
+4519,France,95,60,Loire Valley
+4520,US,95,90,California
+4521,US,95,48,California
+4522,Italy,95,225,Piedmont
+4523,Italy,95,30,Sicily & Sardinia
+4524,Italy,95,40,Sicily & Sardinia
+4525,US,95,50,California
+4526,France,95,40,Loire Valley
+4527,Italy,95,30,Sicily & Sardinia
+4528,Chile,82,9,Central Valley
+4529,US,82,32,California
+4530,US,82,32,California
+4531,US,82,36,California
+4532,Spain,82,11,Northern Spain
+4533,US,82,11,California
+4534,Italy,82,20,Northeastern Italy
+4535,US,82,20,California
+4536,US,82,50,California
+4537,US,82,20,California
+4538,US,82,12,California
+4539,Italy,82,21,Central Italy
+4540,US,82,14,California
+4541,US,82,17,California
+4542,France,82,,Bordeaux
+4543,Italy,82,21,Central Italy
+4544,US,81,25,California
+4545,US,81,14,California
+4546,US,81,32,California
+4547,France,81,12,Bordeaux
+4548,Chile,81,10,Cachapoal Valley
+4549,US,81,11,California
+4550,US,81,11,California
+4551,US,81,14,California
+4552,Spain,81,7,Central Spain
+4553,US,81,14,California
+4554,Chile,81,13,Casablanca Valley
+4555,Spain,81,12,Catalonia
+4556,Italy,80,12,Central Italy
+4557,Spain,80,14,Catalonia
+4558,Spain,85,7,Central Spain
+4559,Portugal,85,23,Douro
+4560,US,85,17,Oregon
+4561,Portugal,85,8,Douro
+4562,Portugal,85,21,Douro
+4563,France,85,15,Bordeaux
+4564,US,85,29,California
+4565,US,85,32,Oregon
+4566,US,85,25,California
+4567,Italy,85,15,Central Italy
+4568,Italy,85,60,Central Italy
+4569,Argentina,85,15,Mendoza Province
+4570,Spain,85,11,Northern Spain
+4571,Portugal,85,17,Lisboa
+4572,Portugal,85,17,Lisboa
+4573,Italy,85,25,Central Italy
+4574,US,85,22,Oregon
+4575,Portugal,85,10,Douro
+4576,Portugal,85,,Lisboa
+4577,France,85,18,Bordeaux
+4578,Spain,85,11,Catalonia
+4579,Portugal,85,10,Lisboa
+4580,Portugal,85,17,Douro
+4581,Portugal,85,,Douro
+4582,Portugal,85,26,Douro
+4583,Portugal,85,,Lisboa
+4584,US,85,32,Oregon
+4585,Italy,85,,Piedmont
+4586,Portugal,85,12,Lisboa
+4587,Portugal,85,9,Bairrada
+4588,Spain,87,26,Galicia
+4589,US,87,38,California
+4590,US,87,18,California
+4591,US,87,30,California
+4592,US,87,75,California
+4593,Italy,87,26,Veneto
+4594,Italy,87,14,Veneto
+4595,US,87,39,California
+4596,US,87,22,California
+4597,Italy,87,20,Veneto
+4598,US,87,40,California
+4599,US,87,30,California
+4600,US,87,16,New York
+4601,US,87,17,New York
+4602,US,87,38,California
+4603,US,87,115,California
+4604,Spain,87,8,Levante
+4605,France,87,12,Rhône Valley
+4606,Chile,87,13,Casablanca Valley
+4607,Italy,87,25,Veneto
+4608,Italy,87,20,Veneto
+4609,US,87,32,California
+4610,France,87,16,Rhône Valley
+4611,Spain,87,17,Northern Spain
+4612,Spain,87,35,Northern Spain
+4613,Spain,87,41,Catalonia
+4614,US,87,13,New York
+4615,US,87,18,New York
+4616,Chile,87,8,Lontué Valley
+4617,Italy,87,35,Veneto
+4618,Italy,94,66,Piedmont
+4619,US,94,75,Oregon
+4620,US,94,40,California
+4621,US,94,62,California
+4622,US,94,41,California
+4623,New Zealand,94,85,Hawke's Bay
+4624,Argentina,94,55,Mendoza Province
+4625,Italy,94,50,Piedmont
+4626,Italy,94,50,Piedmont
+4627,Italy,94,65,Piedmont
+4628,US,94,65,Oregon
+4629,US,94,62,California
+4630,Italy,94,57,Piedmont
+4631,Italy,94,100,Piedmont
+4632,France,94,30,Loire Valley
+4633,Argentina,94,68,Other
+4634,US,94,37,California
+4635,France,94,65,Loire Valley
+4636,US,94,95,Oregon
+4637,US,94,95,Oregon
+4638,Argentina,94,125,Mendoza Province
+4639,US,94,47,California
+4640,US,94,44,California
+4641,US,94,37,California
+4642,Portugal,94,50,Dão
+4643,Portugal,94,70,Bairrada
+4644,France,94,39,Loire Valley
+4645,France,94,50,Loire Valley
+4646,Portugal,94,65,Port
+4647,France,89,,Bordeaux
+4648,France,89,,Bordeaux
+4649,France,89,,Bordeaux
+4650,France,89,,Bordeaux
+4651,France,89,,Bordeaux
+4652,France,89,,Bordeaux
+4653,Italy,89,,Piedmont
+4654,France,89,,Bordeaux
+4655,France,89,,Bordeaux
+4656,France,89,,Bordeaux
+4657,South Africa,89,17,Paarl
+4658,Argentina,89,16,Mendoza Province
+4659,South Africa,89,27,Stellenbosch
+4660,France,89,,Bordeaux
+4661,France,89,,Bordeaux
+4662,France,89,,Bordeaux
+4663,France,89,,Bordeaux
+4664,France,89,,Bordeaux
+4665,France,89,,Bordeaux
+4666,France,89,,Bordeaux
+4667,US,89,18,California
+4668,US,89,30,Washington
+4669,Australia,89,20,Tasmania
+4670,US,91,75,California
+4671,US,91,25,California
+4672,Germany,91,55,Rheingau
+4673,US,91,115,California
+4674,US,91,26,California
+4675,US,91,80,Oregon
+4676,US,91,50,California
+4677,US,91,70,California
+4678,Germany,91,29,Mosel
+4679,Germany,91,40,Rheingau
+4680,US,91,24,Oregon
+4681,US,91,18,California
+4682,Spain,91,45,Northern Spain
+4683,US,91,48,California
+4684,US,91,45,California
+4685,US,91,59,California
+4686,US,91,20,California
+4687,US,91,20,California
+4688,US,91,40,California
+4689,US,91,24,California
+4690,US,91,35,California
+4691,US,91,40,California
+4692,Chile,91,30,Cachapoal Valley
+4693,US,91,40,California
+4694,US,91,19,California
+4695,US,91,24,California
+4696,US,91,25,Oregon
+4697,US,91,35,California
+4698,Spain,91,17,Northern Spain
+4699,Spain,91,20,Northern Spain
+4700,France,87,18,Loire Valley
+4701,France,87,18,Loire Valley
+4702,Portugal,87,14,Bairrada
+4703,US,87,22,Oregon
+4704,US,87,25,Oregon
+4705,Italy,87,30,Piedmont
+4706,Italy,87,28,Piedmont
+4707,Germany,87,16,Mosel
+4708,Argentina,87,22,Mendoza Province
+4709,Italy,87,45,Piedmont
+4710,Italy,87,20,Piedmont
+4711,Spain,87,12,Northern Spain
+4712,US,87,90,California
+4713,Italy,87,,Piedmont
+4714,Germany,87,16,Mosel
+4715,Germany,87,30,Mosel
+4716,Italy,87,28,Piedmont
+4717,Portugal,87,15,Douro
+4718,US,87,25,California
+4719,US,87,20,Oregon
+4720,Portugal,87,14,Alentejano
+4721,Portugal,87,10,Alentejano
+4722,Germany,87,10,Mosel
+4723,Australia,87,14,Victoria
+4724,Israel,87,15,Galilee
+4725,Argentina,87,20,Mendoza Province
+4726,US,87,17,Oregon
+4727,US,87,30,Oregon
+4728,US,87,20,California
+4729,Portugal,87,10,Tejo
+4730,US,91,32,Washington
+4731,US,90,45,Washington
+4732,US,90,20,California
+4733,US,90,60,California
+4734,US,90,23,Washington
+4735,US,90,12,Washington
+4736,US,90,25,California
+4737,US,90,18,Washington
+4738,US,90,30,California
+4739,US,90,20,California
+4740,US,90,23,Washington
+4741,US,90,18,California
+4742,US,90,25,Washington
+4743,US,90,28,Washington
+4744,US,90,19,Washington
+4745,US,90,25,California
+4746,US,90,25,California
+4747,US,89,18,California
+4748,US,89,55,California
+4749,US,89,40,California
+4750,US,89,45,California
+4751,US,89,50,Washington
+4752,US,89,22,California
+4753,US,89,25,Washington
+4754,US,89,25,Washington
+4755,US,89,35,California
+4756,US,89,18,California
+4757,US,88,16,California
+4758,US,88,17,Washington
+4759,US,88,15,Washington
+4760,Spain,90,20,Northern Spain
+4761,US,90,25,California
+4762,Italy,90,85,Tuscany
+4763,Austria,90,89,Weinland Österreich
+4764,US,90,40,California
+4765,Austria,90,21,Niederösterreich
+4766,France,90,50,Bordeaux
+4767,France,90,,Bordeaux
+4768,France,90,,Bordeaux
+4769,US,90,24,Washington
+4770,Italy,90,,Tuscany
+4771,Italy,90,26,Tuscany
+4772,US,90,23,Washington
+4773,Argentina,90,20,Mendoza Province
+4774,Spain,90,25,Northern Spain
+4775,Italy,90,90,Tuscany
+4776,Argentina,90,17,Mendoza Province
+4777,Austria,90,,Wagram-Donauland
+4778,US,90,30,California
+4779,Austria,90,,Südsteiermark
+4780,US,90,25,California
+4781,Italy,90,50,Tuscany
+4782,Austria,90,41,Kamptal
+4783,Austria,90,26,Kamptal
+4784,Argentina,90,95,Mendoza Province
+4785,Italy,90,90,Tuscany
+4786,Italy,90,38,Tuscany
+4787,Italy,86,18,Northeastern Italy
+4788,Greece,86,14,Mantinia
+4789,US,85,9,California
+4790,US,85,17,California
+4791,Italy,85,15,Northeastern Italy
+4792,Italy,85,16,Central Italy
+4793,Italy,85,19,Tuscany
+4794,Greece,85,18,Nemea
+4795,Italy,85,18,Central Italy
+4796,Argentina,85,13,Mendoza Province
+4797,Greece,85,10,Mantinia
+4798,Italy,85,16,Central Italy
+4799,US,85,32,California
+4800,Italy,85,12,Veneto
+4801,US,85,10,California
+4802,Greece,85,17,Mantinia
+4803,US,85,20,California
+4804,Italy,85,18,Tuscany
+4805,US,85,18,California
+4806,Argentina,85,20,Mendoza Province
+4807,US,85,17,California
+4808,Austria,85,15,Niederösterreich
+4809,US,85,18,Oregon
+4810,US,85,48,California
+4811,Italy,85,14,Veneto
+4812,South Africa,85,20,Swartland
+4813,Italy,85,20,Northeastern Italy
+4814,Argentina,85,15,Other
+4815,France,85,,Champagne
+4816,US,85,28,California
+4817,US,85,25,California
+4818,US,85,25,California
+4819,US,85,26,California
+4820,US,85,15,Washington
+4821,US,85,15,Washington
+4822,US,85,48,California
+4823,US,85,24,California
+4824,US,85,35,California
+4825,US,85,40,California
+4826,US,85,22,California
+4827,France,85,,Champagne
+4828,US,85,22,California
+4829,US,85,9,Washington
+4830,US,85,30,California
+4831,US,85,24,California
+4832,US,85,22,California
+4833,US,85,32,California
+4834,US,85,25,California
+4835,US,85,20,California
+4836,Portugal,87,50,Port
+4837,US,87,21,California
+4838,Italy,87,20,Tuscany
+4839,Portugal,87,18,Douro
+4840,Portugal,87,15,Douro
+4841,Chile,87,10,Casablanca Valley
+4842,US,87,15,California
+4843,US,87,26,California
+4844,Chile,87,14,Leyda Valley
+4845,US,87,22,Oregon
+4846,Italy,87,19,Tuscany
+4847,Italy,87,,Tuscany
+4848,Portugal,87,10,Lisboa
+4849,Germany,87,16,Franken
+4850,Italy,87,19,Tuscany
+4851,Italy,87,26,Tuscany
+4852,France,87,,Beaujolais
+4853,Italy,87,21,Tuscany
+4854,France,87,18,Southwest France
+4855,France,87,15,Southwest France
+4856,Spain,87,12,Northern Spain
+4857,Italy,87,32,Tuscany
+4858,Italy,87,30,Tuscany
+4859,Germany,87,12,Pfalz
+4860,Italy,87,15,Tuscany
+4861,Portugal,87,10,Alentejano
+4862,US,87,35,California
+4863,Portugal,87,13,Alentejano
+4864,US,87,18,Oregon
+4865,US,87,50,California
+4866,Portugal,87,13,Douro
+4867,US,87,50,California
+4868,US,87,30,California
+4869,Spain,87,22,Catalonia
+4870,US,87,26,Oregon
+4871,Italy,87,30,Italy Other
+4872,US,87,10,Oregon
+4873,Italy,87,12,Tuscany
+4874,Greece,87,25,Nemea
+4875,Germany,87,13,Nahe
+4876,Italy,87,28,Tuscany
+4877,US,87,38,California
+4878,Italy,87,37,Tuscany
+4879,Portugal,87,17,Douro
+4880,Italy,87,40,Lombardy
+4881,Chile,87,15,Maipo Valley
+4882,Chile,87,12,Maule Valley
+4883,Germany,87,20,Mosel
+4884,Greece,87,25,Chalkidiki
+4885,Spain,87,14,Northern Spain
+4886,Italy,87,13,Italy Other
+4887,US,87,30,Oregon
+4888,US,87,17,California
+4889,US,87,22,California
+4890,Chile,87,15,Maule Valley
+4891,Chile,87,14,Maule Valley
+4892,Italy,87,30,Tuscany
+4893,US,87,17,California
+4894,US,87,35,California
+4895,US,87,28,California
+4896,Lebanon,91,75,Lebanon
+4897,France,91,,Burgundy
+4898,US,91,36,California
+4899,US,91,20,Virginia
+4900,US,91,21,California
+4901,US,91,40,California
+4902,Portugal,91,20,Dão
+4903,Portugal,91,,Alentejano
+4904,Portugal,91,23,Alentejano
+4905,Portugal,91,40,Alentejano
+4906,Italy,91,62,Piedmont
+4907,Germany,91,20,Pfalz
+4908,Argentina,91,62,Mendoza Province
+4909,Portugal,91,,Vinho Verde
+4910,Portugal,91,24,Alentejano
+4911,Germany,91,37,Baden
+4912,Argentina,91,100,Other
+4913,US,91,19,California
+4914,Italy,91,38,Piedmont
+4915,Italy,91,28,Sicily & Sardinia
+4916,Portugal,91,60,Tejo
+4917,Portugal,91,,Vinho Verde
+4918,US,91,40,Oregon
+4919,US,91,58,Oregon
+4920,US,91,48,California
+4921,Italy,91,20,Sicily & Sardinia
+4922,France,91,,Burgundy
+4923,US,91,25,Oregon
+4924,Italy,91,30,Sicily & Sardinia
+4925,Portugal,91,,Douro
+4926,Argentina,86,13,Mendoza Province
+4927,South Africa,86,30,Western Cape
+4928,Australia,86,28,Tasmania
+4929,South Africa,86,12,Western Cape
+4930,South Africa,86,11,Coastal Region
+4931,Spain,86,49,Northern Spain
+4932,Argentina,86,20,Other
+4933,US,86,25,Washington
+4934,US,86,12,California
+4935,US,86,28,California
+4936,US,86,20,California
+4937,US,86,16,Washington
+4938,Portugal,86,9,Dão
+4939,Portugal,86,18,Lisboa
+4940,US,86,9,California
+4941,US,86,30,California
+4942,Australia,86,10,Australia Other
+4943,Argentina,86,12,Mendoza Province
+4944,US,86,11,California
+4945,US,86,28,Washington
+4946,Italy,86,13,Tuscany
+4947,Portugal,86,14,Alentejo
+4948,Portugal,86,9,Setubal
+4949,US,86,11,California
+4950,France,86,,Bordeaux
+4951,US,86,69,California
+4952,US,86,13,California
+4953,US,86,20,California
+4954,Spain,86,7,Central Spain
+4955,Spain,86,15,Northern Spain
+4956,France,90,37,Loire Valley
+4957,US,90,42,California
+4958,Spain,90,35,Central Spain
+4959,US,90,26,California
+4960,Italy,90,23,Northeastern Italy
+4961,Italy,90,22,Northeastern Italy
+4962,France,90,25,Loire Valley
+4963,France,90,20,Loire Valley
+4964,US,90,60,California
+4965,US,90,65,California
+4966,Spain,90,35,Catalonia
+4967,Argentina,90,40,Mendoza Province
+4968,France,90,26,Loire Valley
+4969,France,90,,Southwest France
+4970,France,90,29,Loire Valley
+4971,Italy,90,35,Veneto
+4972,Chile,90,19,Leyda Valley
+4973,US,90,45,California
+4974,US,90,34,California
+4975,US,90,28,California
+4976,US,89,55,California
+4977,Germany,88,48,Württemberg
+4978,US,88,13,Washington
+4979,Italy,88,,Sicily & Sardinia
+4980,Italy,88,39,Southern Italy
+4981,France,88,,Bordeaux
+4982,France,88,,Bordeaux
+4983,France,88,36,Languedoc-Roussillon
+4984,Italy,88,30,Southern Italy
+4985,France,88,11,Languedoc-Roussillon
+4986,New Zealand,88,15,Marlborough
+4987,Chile,88,15,Elqui Valley
+4988,US,88,35,California
+4989,South Africa,88,19,Robertson
+4990,Italy,88,54,Southern Italy
+4991,Italy,88,30,Veneto
+4992,Australia,88,25,South Australia
+4993,US,88,70,California
+4994,Italy,88,23,Veneto
+4995,New Zealand,88,19,Marlborough
+4996,Italy,88,45,Southern Italy
+4997,Italy,88,12,Sicily & Sardinia
+4998,US,88,50,California
+4999,Chile,88,19,Casablanca Valley
+5000,Germany,88,27,Mosel-Saar-Ruwer
