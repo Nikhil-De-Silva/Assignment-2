@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Nikhil-De-Silva/Assignment-2/main/features.csv"},
+    "transform": [{
+      "filter": {"and": [
+        {"field": "Temperature", "valid": true},
+        {"field": "Fuel_Price", "valid": true}
+      ]}
+    }],
+    "mark": "rect",
+    "width": 300,
+    "height": 200,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins":60},
+        "field": "Temperature",
+        "type": "quantitative"
+      },
+      "y": {
+        "bin": {"maxbins": 40},
+        "field": "Fuel_Price",
+        "type": "quantitative"
+      },
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative"
+      }
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
+  

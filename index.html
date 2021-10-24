@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <script src="vega_lite_vis.js"></script>
+    <title>First vega-lite graph</title>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>evolve</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+  </head>
+
+  <body>
+    <div>
+      <h1></h1>
+      <img src="Walmart5.png" width="1470" height="300" />
+      <div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert" style="float:left">
+                        <h1>History of Walmart</h1>
+                        
+                        <p> Walmart was started by SamWalton in 1962 with 1 store in Arkansas and today Walmart has nearly 12,000 retail stores. Walmart keeps itself true to its mission:Help people save money so they could live better. Walmart gets 260 million customers weekly and operates in over 28 countries.Walmart focused on a heavy acquisition strategy as it's revenue grew and acquired retail stores such as Mohr-Value and Kuhn's Big K. Walmart Operates in the supermarket and hypermarket indusries. </p>
+                        
+                     </div>
+                     
+                     
+                     
+                  </div>
+        
+
+             </div>
+          
+      
+            </div>
+        </div>
+      </div>
+    <div>
+        <div id="bar_chart" style="float: left;">
+        
+        </div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Walmart's USA Operation</h1>
+                        
+                        <p>Walmart has over 4,743 stores across the United states of America, as mentioned before the USA operation is 65% of their total operation. The most important and lucrative market is the United States Market and through the visiion of Sam Walton Walmart has done justice to the USA cutomer by provinding good quality products at a low price</p>
+                     </div>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+        
+   </div>
+   <div>
+        <div id="bar_chart2" style="float: left"></div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Open stock price</h1>
+                        
+                        <p>Walmarts entry into the New York Stock Exchange has shifted paradigms for Walmart and helped its growth rapidly, The above heat map showcases the patterns that the opening price goes up as it gets a darker version of the color, as you can see August, November and December have high opeing prices </p>
+                     </div>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+    
+   </div>
+
+    <div>
+            <div id="bar_chart3"></div>
+            <div class="container-fluid">
+                <div class="row d_flex">
+                   <div class="col-md-6">
+                      <div class="text-bg">
+                         <div class="padding_lert">
+                            <h1>Walmart's clsoing stock price</h1>
+                            
+                            <p> Walmart final closing stock price is showcased in the line chart above and as you can see Walmart within the course of the last 2 years have rised from 95 to 148. During the Covid-19 pandemic Walmart contiued to showcase its class and dominance and the stock went from height to height. </p>
+                         </div>
+                      </div>
+            
+    
+                  </div>
+              
+          
+                </div>
+            </div>
+
+    </div>
+    <div>
+        <div id="bar_chart4" style="float: left;"></div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Walmart's Fuel price</h1>
+                        
+                        <p> Walmart Fuel prices have been mapped with the temperature of the environement.We went one step ahead to identify whether there is a hidden meaning behind this approach and we found that when the temperature is relatively hot the fuel price is high, therefor we found that Walmarts sales have also grown due to this hidden fact. </p>
+                     </div>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+        
+    </div>
+    <div> 
+        <div id="bar_chart5" style="float: left;"></div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Walmart's Customer & Employee analysis</h1>
+                        
+                        <p>Walmarts customer and Employe analysis metrices have been generated and we will use the bar histograms to map each factor against the total count to find hidden knwoledge embedded in it.Customer performance Idex(CPI) is relatively low, unemployment of employees is high.</p>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+
+    </div>
+    <div>
+        <div id="bar_chart6" style="float: left;"></div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Open Share change</h1>
+                        
+                        <p>  As the graph shows that there is a smooth rise in the change of the open share price but it has some portions of period with a small dip and that is due to the covid-19 pandemic.The the trend of the graph is increasing so therefor it shows positivity</p>
+                     </div>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+
+    </div>
+    <div>
+        <div id="bar_chart7" style="float: left;"></div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Heatmap of Fuel Price</h1>
+                        
+                        <p> The heat map showcases a better view of the fuel price and the temperature and we can see the rise of numbers when the temperature is high which is a factor that should be considered. </p>
+                     </div>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+        
+    </div>
+    <div>
+        <div id="bar_chart8" style="float: left;"></div>
+        <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-6">
+                  <div class="text-bg">
+                     <div class="padding_lert">
+                        <h1>Open stock price Volume</h1>
+                        <p>The Volumes of sales took place at large due the resiliance of the Walmart stock, there is a rising trend and the boom took place within the November to December period</p>  
+                     </div>
+                  </div>
+        
+
+              </div>
+          
+      
+            </div>
+        </div>
+
+    </div>
+  </body>
+</html>

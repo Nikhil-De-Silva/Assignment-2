@@ -1,0 +1,22 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 500,
+    "data": {"url": "https://raw.githubusercontent.com/Nikhil-De-Silva/Assignment-2/main/WMT%20Historical%20Data%20(2).csv"},
+    "encoding": {
+        "x": {"timeUnit": "yearmonth", "field": "Date"},
+        "y": {"aggregate": "sum", "field": "Open"}
+    },
+    "layer": [{
+      "params": [{
+        "name": "brush",
+        "select": {"type": "interval", "encodings": ["x"]}
+      }],
+      "mark": "area"
+    }, {
+      "transform": [
+        {"filter": {"param": "brush"}}
+      ],
+      "mark": {"type": "area", "color": "goldenrod"}
+    }]
+  }

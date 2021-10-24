@@ -1,0 +1,17 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 600,
+    "repeat": ["Temperature", "Fuel_Price", "CPI", "Unemployment"],
+    "columns": 2,
+    "spec": {
+      "data": {"url": "https://raw.githubusercontent.com/Nikhil-De-Silva/Assignment-2/main/features.csv"},
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": {"repeat": "repeat"}, "bin": true},
+        "y": {"aggregate": "count"},
+        "color": {"field": "Origin"}
+      }
+    }
+  }
+  

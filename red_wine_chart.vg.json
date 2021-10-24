@@ -1,0 +1,18 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/Nikhil-De-Silva/Assignment-2/main/features.csv"},
+    "width": 700,
+    "height": 500,
+    "mark": "circle",
+    "encoding": {
+      "x": {
+        "bin": {"maxbins": 10},
+        "field": "Fuel_Price"
+      },
+      "y": {
+        "bin": {"maxbins": 10},
+        "field": "Temperature"
+      },
+      "size": {"aggregate": "count"}
+    }
+  }
